@@ -6,13 +6,13 @@ React HOC's for querying [prismic.io](https://www.prismic.io)
 ## Installation
 
 ```
-npm install --save react-prismic
+npm install --save react-prismic-hocs
 ```
 Then with a module bundler like [webpack](https://webpack.github.io/), use as you would anything else:
 
 ```js
 // using an ES6 transpiler, like babel
-import { Query, DocumentById } from 'react-prismic'
+import { Query, DocumentById } from 'react-prismic-hocs'
 ```
 
 The UMD build is also available on [unpkg](https://unpkg.com):
@@ -47,7 +47,7 @@ Returns a new component with the the Prismic response to your query.
 
 ##### Examples
 ```js
-import { withQuery } from 'react-prismic'
+import { withQuery } from 'react-prismic-hocs'
 
 const Articles = (props) => ... // your component
 
@@ -86,7 +86,7 @@ Returns a new component with the the Prismic response to your query
 
 ##### Examples
 ```js
-import { withDocumentById} from 'react-prismic'
+import { withDocumentById} from 'react-prismic-hocs'
 
 const Article = (props) => ... // your component
 
@@ -110,7 +110,7 @@ Returns a new component with the the Prismic response to your query
 
 ##### Examples
 ```js
-import { withDocumentById} from 'react-prismic'
+import { withDocumentById} from 'react-prismic-hocs'
 
 const Page = (props) => ... // your component
 
@@ -144,7 +144,7 @@ Pass the prismic of a Prismic query to your child function.
 
 ##### Example
 ```js
-import { Query } from 'react-prismic'
+import { Query } from 'react-prismic-hocs'
 
 <Query
   url={'https://yourapiurl.prismic.io/api'}
@@ -177,7 +177,7 @@ Passes a Prismic document to your child function
 
 ##### Example
 ```js
-import { DocumentById} from 'react-prismic'
+import { DocumentById} from 'react-prismic-hocs'
 
 const Article = (props) => ... // your component
 
@@ -209,7 +209,7 @@ Passes a Prismic document to your child function
 
 ##### Examples
 ```js
-import { DocumentById} from 'react-prismic'
+import { DocumentById} from 'react-prismic-hocs'
 
 export default withDocumentByUid({
   url: 'https://yourapiurl.prismic.io/api',
