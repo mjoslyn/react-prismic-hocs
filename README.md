@@ -18,7 +18,7 @@ import { Query, DocumentById } from 'react-prismic'
 The UMD build is also available on [unpkg](https://unpkg.com):
 
 ```html
-<script src="https://unpkg.com/react-prismic@0.6.0/umd/ReactPrismicHocs.min.js"></script>
+<script src="https://unpkg.com/react-prismic-hocs@0.1.0/umd/ReactPrismicHocs.min.js"></script>
 ```
 
 ## How Does It Work?
