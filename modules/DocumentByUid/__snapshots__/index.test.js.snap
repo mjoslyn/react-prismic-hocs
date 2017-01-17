@@ -1,0 +1,577 @@
+exports[`The query component Accepts a uid and type 1`] = `false`;
+
+exports[`The query component Accepts a uid and type 2`] = `
+Object {
+  "data": Object {
+    "article.content": Object {
+      "type": "StructuredText",
+      "value": Array [
+        Object {
+          "spans": Array [],
+          "text": "A tale of pastry and passion",
+          "type": "heading2",
+        },
+        Object {
+          "spans": Array [],
+          "text": "As a child, Jean-Michel Pastranova learned the art of fine cuisine from his grand-father, Jacques Pastranova, who was the creator of the \"taste-design\" art current, and still today an unmissable reference of forward-thinking in cuisine. At first an assistant in his grand-father\'s kitchen, Jean-Michel soon found himself fascinated by sweet flavors and the tougher art of pastry, drawing his own path in the ever-changing cuisine world.",
+          "type": "paragraph",
+        },
+        Object {
+          "spans": Array [
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbb",
+                    "slug": "paris-saint-lazare",
+                    "tags": Array [],
+                    "type": "store",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 99,
+              "start": 81,
+              "type": "hyperlink",
+            },
+          ],
+          "text": "In 1992, the first Les Bonnes Choses store opened on rue Saint-Lazare, in Paris (we\'re still there!), much to everyone\'s surprise; indeed, back then, it was very surprising for a highly promising young man with a preordained career as a restaurant chef, to open a pastry shop instead. But soon enough, contemporary chefs understood that Jean-Michel had the drive to redefine a new nobility to pastry, the same way many other kinds of cuisine were being qualified as \"fine\".",
+          "type": "paragraph",
+        },
+        Object {
+          "spans": Array [
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbP",
+                    "slug": "paris-champ-elysees",
+                    "tags": Array [],
+                    "type": "store",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 110,
+              "start": 71,
+              "type": "hyperlink",
+            },
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbr",
+                    "slug": "london-covent-garden",
+                    "tags": Array [],
+                    "type": "store",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 137,
+              "start": 116,
+              "type": "hyperlink",
+            },
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbc",
+                    "slug": "new-york-fifth-avenue",
+                    "tags": Array [],
+                    "type": "store",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 650,
+              "start": 642,
+              "type": "hyperlink",
+            },
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbU",
+                    "slug": "tokyo-roppongi-hills",
+                    "tags": Array [],
+                    "type": "store",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 667,
+              "start": 662,
+              "type": "hyperlink",
+            },
+          ],
+          "text": "In 1996, meeting an overwhelming demand, Jean-Michel Pastranova opened a second shop on Paris\'s Champs-Élysées, and a third one in London, the same week! Eventually, Les Bonnes Choses gained an international reputation as \"a perfection so familiar and new at the same time, that it will feel like a taste travel\" (New York Gazette), \"the finest balance between surprise and comfort, enveloped in sweetness\" (The Tokyo Tribune), \"a renewal of the pastry genre (...), the kind that changed the way pastry is approached globally\" (The San Francisco Gourmet News). Therefore, it was only a matter of time before Les Bonnes Choses opened shops in New York (2000) and Tokyo (2004).",
+          "type": "paragraph",
+        },
+        Object {
+          "spans": Array [],
+          "text": "In 2013, Jean-Michel Pastranova stepped down as the CEO and Director of Workshops, remaining a senior advisor to the board and to the workshop artists; he passed the light on to Selena, his daugther, who initially learned the art of pastry from him. Passion for great food runs in the Pastranova family...",
+          "type": "paragraph",
+        },
+        Object {
+          "alt": null,
+          "copyright": null,
+          "dimensions": Object {
+            "height": 533,
+            "width": 800,
+          },
+          "type": "image",
+          "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses-ve9ubyaaaciapezy/49752d05b33e995559564fba6cf90294f446cbae_medium_1374500493595_fotolia_52498925_subscription_monthly_xxl.jpg",
+        },
+        Object {
+          "spans": Array [],
+          "text": "Our main value: our customers\' delight",
+          "type": "heading2",
+        },
+        Object {
+          "spans": Array [],
+          "text": "Our every action is driven by the firm belief that there is art in pastry, and that this art is one of the dearest pleasures one can experience.",
+          "type": "paragraph",
+        },
+        Object {
+          "spans": Array [
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXba",
+                    "slug": "ganache-specialist",
+                    "tags": Array [],
+                    "type": "job-offer",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 113,
+              "start": 94,
+              "type": "hyperlink",
+            },
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbQ",
+                    "slug": "fruit-expert",
+                    "tags": Array [],
+                    "type": "job-offer",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 130,
+              "start": 117,
+              "type": "hyperlink",
+            },
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbn",
+                    "slug": "oven-instrumentist",
+                    "tags": Array [],
+                    "type": "job-offer",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 158,
+              "start": 137,
+              "type": "hyperlink",
+            },
+          ],
+          "text": "At Les Bonnes Choses, people preparing your macarons are not simply \"pastry chefs\": they are \"ganache specialists\", \"fruit experts\", or \"oven instrumentalists\". They are the best people out there to perform the tasks they perform to create your pastry, giving it the greatest value. And they just love to make their specialized pastry skill better and better until perfection.",
+          "type": "paragraph",
+        },
+        Object {
+          "spans": Array [
+            Object {
+              "end": 56,
+              "start": 39,
+              "type": "em",
+            },
+          ],
+          "text": "Of course, there is a workshop in each Les Bonnes Choses store, and every pastry you buy was made today, by the best pastry specialists in your country.",
+          "type": "paragraph",
+        },
+        Object {
+          "spans": Array [
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbl",
+                    "slug": "our-world-famous-pastry-art-brainstorm-event",
+                    "tags": Array [],
+                    "type": "blog-post",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 190,
+              "start": 168,
+              "type": "hyperlink",
+            },
+            Object {
+              "end": 283,
+              "start": 266,
+              "type": "em",
+            },
+          ],
+          "text": "However, the very difficult art of creating new concepts, juggling with tastes and creating brand new, powerful experiences, is performed every few months, during our \"Pastry Art Brainstorms\". During the event, the best pastry artists in the world (some working for Les Bonnes Choses, some not) gather in Paris, and showcase the experiments they\'ve been working on; then, the other present artists comment on the piece, and iterate on it together, in order to make it the best possible masterchief!",
+          "type": "paragraph",
+        },
+        Object {
+          "spans": Array [
+            Object {
+              "end": 131,
+              "start": 114,
+              "type": "em",
+            },
+          ],
+          "text": "The session is presided by Jean-Michel Pastranova, who then selects the most delightful experiences, to add it to Les Bonnes Choses\'s catalogue.",
+          "type": "paragraph",
+        },
+      ],
+    },
+    "article.image": Object {
+      "type": "Image",
+      "value": Object {
+        "main": Object {
+          "alt": null,
+          "copyright": null,
+          "dimensions": Object {
+            "height": 500,
+            "width": 1500,
+          },
+          "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses-ve9ubyaaaciapezy/e3064a95c8dabeffcecb804eda8b5524f3ec68f5_medium_1374487781489_head-about.png",
+        },
+        "views": Object {},
+      },
+    },
+    "article.short_lede": Object {
+      "type": "StructuredText",
+      "value": Array [
+        Object {
+          "spans": Array [],
+          "text": "Making great pastry is our passion. Turning them into people\'s delight is our commitment. Understand our values and learn to know us.",
+          "type": "paragraph",
+        },
+      ],
+    },
+    "article.title": Object {
+      "type": "StructuredText",
+      "value": Array [
+        Object {
+          "spans": Array [],
+          "text": "About us",
+          "type": "heading1",
+        },
+      ],
+    },
+  },
+  "firstPublicationDate": null,
+  "fragments": Object {
+    "article.content": Object {
+      "blocks": Array [
+        Object {
+          "spans": Array [],
+          "text": "A tale of pastry and passion",
+          "type": "heading2",
+        },
+        Object {
+          "spans": Array [],
+          "text": "As a child, Jean-Michel Pastranova learned the art of fine cuisine from his grand-father, Jacques Pastranova, who was the creator of the \"taste-design\" art current, and still today an unmissable reference of forward-thinking in cuisine. At first an assistant in his grand-father\'s kitchen, Jean-Michel soon found himself fascinated by sweet flavors and the tougher art of pastry, drawing his own path in the ever-changing cuisine world.",
+          "type": "paragraph",
+        },
+        Object {
+          "spans": Array [
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbb",
+                    "slug": "paris-saint-lazare",
+                    "tags": Array [],
+                    "type": "store",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 99,
+              "start": 81,
+              "type": "hyperlink",
+            },
+          ],
+          "text": "In 1992, the first Les Bonnes Choses store opened on rue Saint-Lazare, in Paris (we\'re still there!), much to everyone\'s surprise; indeed, back then, it was very surprising for a highly promising young man with a preordained career as a restaurant chef, to open a pastry shop instead. But soon enough, contemporary chefs understood that Jean-Michel had the drive to redefine a new nobility to pastry, the same way many other kinds of cuisine were being qualified as \"fine\".",
+          "type": "paragraph",
+        },
+        Object {
+          "spans": Array [
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbP",
+                    "slug": "paris-champ-elysees",
+                    "tags": Array [],
+                    "type": "store",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 110,
+              "start": 71,
+              "type": "hyperlink",
+            },
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbr",
+                    "slug": "london-covent-garden",
+                    "tags": Array [],
+                    "type": "store",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 137,
+              "start": 116,
+              "type": "hyperlink",
+            },
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbc",
+                    "slug": "new-york-fifth-avenue",
+                    "tags": Array [],
+                    "type": "store",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 650,
+              "start": 642,
+              "type": "hyperlink",
+            },
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbU",
+                    "slug": "tokyo-roppongi-hills",
+                    "tags": Array [],
+                    "type": "store",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 667,
+              "start": 662,
+              "type": "hyperlink",
+            },
+          ],
+          "text": "In 1996, meeting an overwhelming demand, Jean-Michel Pastranova opened a second shop on Paris\'s Champs-Élysées, and a third one in London, the same week! Eventually, Les Bonnes Choses gained an international reputation as \"a perfection so familiar and new at the same time, that it will feel like a taste travel\" (New York Gazette), \"the finest balance between surprise and comfort, enveloped in sweetness\" (The Tokyo Tribune), \"a renewal of the pastry genre (...), the kind that changed the way pastry is approached globally\" (The San Francisco Gourmet News). Therefore, it was only a matter of time before Les Bonnes Choses opened shops in New York (2000) and Tokyo (2004).",
+          "type": "paragraph",
+        },
+        Object {
+          "spans": Array [],
+          "text": "In 2013, Jean-Michel Pastranova stepped down as the CEO and Director of Workshops, remaining a senior advisor to the board and to the workshop artists; he passed the light on to Selena, his daugther, who initially learned the art of pastry from him. Passion for great food runs in the Pastranova family...",
+          "type": "paragraph",
+        },
+        Object {
+          "alt": null,
+          "copyright": null,
+          "dimensions": Object {
+            "height": 533,
+            "width": 800,
+          },
+          "type": "image",
+          "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses-ve9ubyaaaciapezy/49752d05b33e995559564fba6cf90294f446cbae_medium_1374500493595_fotolia_52498925_subscription_monthly_xxl.jpg",
+        },
+        Object {
+          "spans": Array [],
+          "text": "Our main value: our customers\' delight",
+          "type": "heading2",
+        },
+        Object {
+          "spans": Array [],
+          "text": "Our every action is driven by the firm belief that there is art in pastry, and that this art is one of the dearest pleasures one can experience.",
+          "type": "paragraph",
+        },
+        Object {
+          "spans": Array [
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXba",
+                    "slug": "ganache-specialist",
+                    "tags": Array [],
+                    "type": "job-offer",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 113,
+              "start": 94,
+              "type": "hyperlink",
+            },
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbQ",
+                    "slug": "fruit-expert",
+                    "tags": Array [],
+                    "type": "job-offer",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 130,
+              "start": 117,
+              "type": "hyperlink",
+            },
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbn",
+                    "slug": "oven-instrumentist",
+                    "tags": Array [],
+                    "type": "job-offer",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 158,
+              "start": 137,
+              "type": "hyperlink",
+            },
+          ],
+          "text": "At Les Bonnes Choses, people preparing your macarons are not simply \"pastry chefs\": they are \"ganache specialists\", \"fruit experts\", or \"oven instrumentalists\". They are the best people out there to perform the tasks they perform to create your pastry, giving it the greatest value. And they just love to make their specialized pastry skill better and better until perfection.",
+          "type": "paragraph",
+        },
+        Object {
+          "spans": Array [
+            Object {
+              "end": 56,
+              "start": 39,
+              "type": "em",
+            },
+          ],
+          "text": "Of course, there is a workshop in each Les Bonnes Choses store, and every pastry you buy was made today, by the best pastry specialists in your country.",
+          "type": "paragraph",
+        },
+        Object {
+          "spans": Array [
+            Object {
+              "data": Object {
+                "type": "Link.document",
+                "value": Object {
+                  "document": Object {
+                    "id": "UlfoxUnM0wkXYXbl",
+                    "slug": "our-world-famous-pastry-art-brainstorm-event",
+                    "tags": Array [],
+                    "type": "blog-post",
+                  },
+                  "isBroken": false,
+                },
+              },
+              "end": 190,
+              "start": 168,
+              "type": "hyperlink",
+            },
+            Object {
+              "end": 283,
+              "start": 266,
+              "type": "em",
+            },
+          ],
+          "text": "However, the very difficult art of creating new concepts, juggling with tastes and creating brand new, powerful experiences, is performed every few months, during our \"Pastry Art Brainstorms\". During the event, the best pastry artists in the world (some working for Les Bonnes Choses, some not) gather in Paris, and showcase the experiments they\'ve been working on; then, the other present artists comment on the piece, and iterate on it together, in order to make it the best possible masterchief!",
+          "type": "paragraph",
+        },
+        Object {
+          "spans": Array [
+            Object {
+              "end": 131,
+              "start": 114,
+              "type": "em",
+            },
+          ],
+          "text": "The session is presided by Jean-Michel Pastranova, who then selects the most delightful experiences, to add it to Les Bonnes Choses\'s catalogue.",
+          "type": "paragraph",
+        },
+      ],
+    },
+    "article.image": Object {
+      "main": Object {
+        "alt": null,
+        "height": 500,
+        "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses-ve9ubyaaaciapezy/e3064a95c8dabeffcecb804eda8b5524f3ec68f5_medium_1374487781489_head-about.png",
+        "width": 1500,
+      },
+      "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses-ve9ubyaaaciapezy/e3064a95c8dabeffcecb804eda8b5524f3ec68f5_medium_1374487781489_head-about.png",
+      "views": Object {},
+    },
+    "article.short_lede": Object {
+      "blocks": Array [
+        Object {
+          "spans": Array [],
+          "text": "Making great pastry is our passion. Turning them into people\'s delight is our commitment. Understand our values and learn to know us.",
+          "type": "paragraph",
+        },
+      ],
+    },
+    "article.title": Object {
+      "blocks": Array [
+        Object {
+          "spans": Array [],
+          "text": "About us",
+          "type": "heading1",
+        },
+      ],
+    },
+  },
+  "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbf%22%29+%5D%5D",
+  "id": "UlfoxUnM0wkXYXbf",
+  "lastPublicationDate": 2017-01-16T16:01:25.000Z,
+  "slug": "about-us",
+  "slugs": Array [
+    "about-us",
+  ],
+  "tags": Array [],
+  "type": "article",
+  "uid": "about-us",
+}
+`;
+
+exports[`The query component Throws an invariant with no type 1`] = `false`;
+
+exports[`The query component Throws an invariant with no uid 1`] = `false`;
+
+exports[`The query component Throws an invariant with no url prop 1`] = `false`;
