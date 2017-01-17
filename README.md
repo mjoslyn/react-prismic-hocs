@@ -122,7 +122,7 @@ export default withDocumentByUid({
 ```
 
 # Child Functions 
-Pass the query prismic as arguments to your child function.
+Pass the results of prismic query as arguments to your child function.
 
 The arguments passed to your child function are
 * ```loading or queryKeyLoading``` - \(*Boolean*) - Is the Prismic request loading?
@@ -132,7 +132,7 @@ The arguments passed to your child function are
 <a id="Query"></a>
 
 ## ```Query({ url, query, predicates, optons })```
-Pass the prismic of a Prismic query to your child function. 
+Pass the results of a Prismic query to your child function. 
 
 ##### Arguments
 * ```url``` \(*String*) - *Required* Your Prismic project's API endpoint. You can find this in the *Settings -> Api & Security* section in the dashboard of your Prisimic project.
