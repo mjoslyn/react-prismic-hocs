@@ -4175,127 +4175,6 @@ Response {
           "type": "Text",
           "value": "Pierre Thompson, Head of London\'s workshop",
         },
-        "blog-post.body": Object {
-          "type": "StructuredText",
-          "value": Array [
-            Object {
-              "spans": Array [],
-              "text": "One day in the life of a Les Bonnes Choses pastry",
-              "type": "heading1",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Waking up in the morning",
-              "type": "heading2",
-            },
-            Object {
-              "spans": Array [
-                Object {
-                  "end": 39,
-                  "start": 22,
-                  "type": "em",
-                },
-              ],
-              "text": "Before dawn breaks, a Les Bonnes Choses pastry is nothing but ingredients. But around 4am, preparation artists start to get agitated around their ingredients, to do what they do best: mix them in the most delightful way.",
-              "type": "paragraph",
-            },
-            Object {
-              "spans": Array [],
-              "text": "A macaron\'s day starts very early, as they need more time to rest. Our preparation artists do have to wake up very early for you to enjoy the most wonderful flavors. But as they do, they keep in mind how our clients just love macaron, and their happiness to generate delight comes back in a snap.",
-              "type": "paragraph",
-            },
-            Object {
-              "oembed": Object {
-                "author_name": "NYT Dining & Wine",
-                "author_url": "https://twitter.com/nytdining",
-                "cache_age": "3153600000",
-                "embed_url": "https://twitter.com/nytdining/status/359659182670098434",
-                "height": null,
-                "html": "<blockquote class=\"twitter-tweet\"><p>The macaron: once the most exquisite of small pleasures, this cookie is everywhere today, as ordinary as Oreos: <a href=\"http://t.co/QXBq77cZBk\">http://t.co/QXBq77cZBk</a></p>&mdash; NYT Dining &amp; Wine (@nytdining) <a href=\"https://twitter.com/nytdining/statuses/359659182670098434\">July 23, 2013</a></blockquote>
-<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
-                "provider_name": "Twitter",
-                "provider_url": "https://twitter.com",
-                "title": "Twitter / nytdining: The macaron: once the most ...",
-                "type": "rich",
-                "url": "https://twitter.com/nytdining/statuses/359659182670098434",
-                "version": "1.0",
-                "width": 550,
-              },
-              "type": "embed",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Heated peak of the day",
-              "type": "heading2",
-            },
-            Object {
-              "alt": null,
-              "copyright": null,
-              "dimensions": Object {
-                "height": 425,
-                "width": 640,
-              },
-              "type": "image",
-              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/8baee1ea007e292aa15a49f3aec5c040839eeb70.jpg",
-            },
-            Object {
-              "spans": Array [],
-              "text": "When the mix is perfect, the pastry goes on towards the hands of the Oven Instrumentalist, who knows his oven better than anyone. Our Oven Instrumentalists + our ovens = a result that goes far beyond the sum of the two!",
-              "type": "paragraph",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Oven Instrumentalists have very precise methods to make sure the cooking of your pastries is as far along as they think, so that each pastry gets the perfect kind of cooking (gaz oven? wood-burning stove?) and the perfect amount of cooking time, for a perfect balance between melty and crusty!",
-              "type": "paragraph",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Power nap",
-              "type": "heading2",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Right out of the oven, the pastry has been having a hell of a day! It needs to rest a little, in order to get the best of what is to come. The day is far, far to be over...",
-              "type": "paragraph",
-            },
-            Object {
-              "spans": Array [],
-              "text": "It would be far too easy for the Oven Instrumentalist to pass on the task to make sure the resting phase goes ok to another pastry artist; so, during that phase, he\'s still the one in charge of your pastry! Only he knows how the cooking he\'s been doing will end up depending on the temperature, so he gets to use fridges that offer him many different resting temperatures. Yes, in a way, our Oven Instrumentalists are also Fridge Instrumentalists!",
-              "type": "paragraph",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Time to get pretty",
-              "type": "heading2",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Once well-rested, and after yawning quite a few times, our pastries get their party dresses on, and get as pretty as possible for their dance ball! Our Pastry Dressers know just how the pastries look the best, to create an entirely immersive experience, not only for taste buds, for for your eyes as well.",
-              "type": "paragraph",
-            },
-            Object {
-              "spans": Array [],
-              "text": "From the ganache shape to the dusting of the toppings, our Pastry Dressers get the visual most of our pastries, for your eyes\' pleasure...",
-              "type": "paragraph",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Hanging out with our customers",
-              "type": "heading2",
-            },
-            Object {
-              "spans": Array [
-                Object {
-                  "end": 341,
-                  "start": 324,
-                  "type": "em",
-                },
-              ],
-              "text": "Now, the day of our pastry is over! It can get to hang out with our customers, and seem as pretty as possible, to be the one to get to delight you. Our pastries have a short amount of time to convince you, as their optimum taste lasts within 10 first hours they exist; also, tomorrow morning, it will be a new generation of Les Bonnes Choses pastries waking up in the morning as simple ingredients.",
-              "type": "paragraph",
-            },
-          ],
-        },
         "blog-post.category": Object {
           "type": "Select",
           "value": "Behind the scenes",
@@ -4380,126 +4259,6 @@ Response {
         },
         "blog-post.author": Object {
           "value": "Pierre Thompson, Head of London\'s workshop",
-        },
-        "blog-post.body": Object {
-          "blocks": Array [
-            Object {
-              "spans": Array [],
-              "text": "One day in the life of a Les Bonnes Choses pastry",
-              "type": "heading1",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Waking up in the morning",
-              "type": "heading2",
-            },
-            Object {
-              "spans": Array [
-                Object {
-                  "end": 39,
-                  "start": 22,
-                  "type": "em",
-                },
-              ],
-              "text": "Before dawn breaks, a Les Bonnes Choses pastry is nothing but ingredients. But around 4am, preparation artists start to get agitated around their ingredients, to do what they do best: mix them in the most delightful way.",
-              "type": "paragraph",
-            },
-            Object {
-              "spans": Array [],
-              "text": "A macaron\'s day starts very early, as they need more time to rest. Our preparation artists do have to wake up very early for you to enjoy the most wonderful flavors. But as they do, they keep in mind how our clients just love macaron, and their happiness to generate delight comes back in a snap.",
-              "type": "paragraph",
-            },
-            Object {
-              "oembed": Object {
-                "author_name": "NYT Dining & Wine",
-                "author_url": "https://twitter.com/nytdining",
-                "cache_age": "3153600000",
-                "embed_url": "https://twitter.com/nytdining/status/359659182670098434",
-                "height": null,
-                "html": "<blockquote class=\"twitter-tweet\"><p>The macaron: once the most exquisite of small pleasures, this cookie is everywhere today, as ordinary as Oreos: <a href=\"http://t.co/QXBq77cZBk\">http://t.co/QXBq77cZBk</a></p>&mdash; NYT Dining &amp; Wine (@nytdining) <a href=\"https://twitter.com/nytdining/statuses/359659182670098434\">July 23, 2013</a></blockquote>
-<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
-                "provider_name": "Twitter",
-                "provider_url": "https://twitter.com",
-                "title": "Twitter / nytdining: The macaron: once the most ...",
-                "type": "rich",
-                "url": "https://twitter.com/nytdining/statuses/359659182670098434",
-                "version": "1.0",
-                "width": 550,
-              },
-              "type": "embed",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Heated peak of the day",
-              "type": "heading2",
-            },
-            Object {
-              "alt": null,
-              "copyright": null,
-              "dimensions": Object {
-                "height": 425,
-                "width": 640,
-              },
-              "type": "image",
-              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/8baee1ea007e292aa15a49f3aec5c040839eeb70.jpg",
-            },
-            Object {
-              "spans": Array [],
-              "text": "When the mix is perfect, the pastry goes on towards the hands of the Oven Instrumentalist, who knows his oven better than anyone. Our Oven Instrumentalists + our ovens = a result that goes far beyond the sum of the two!",
-              "type": "paragraph",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Oven Instrumentalists have very precise methods to make sure the cooking of your pastries is as far along as they think, so that each pastry gets the perfect kind of cooking (gaz oven? wood-burning stove?) and the perfect amount of cooking time, for a perfect balance between melty and crusty!",
-              "type": "paragraph",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Power nap",
-              "type": "heading2",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Right out of the oven, the pastry has been having a hell of a day! It needs to rest a little, in order to get the best of what is to come. The day is far, far to be over...",
-              "type": "paragraph",
-            },
-            Object {
-              "spans": Array [],
-              "text": "It would be far too easy for the Oven Instrumentalist to pass on the task to make sure the resting phase goes ok to another pastry artist; so, during that phase, he\'s still the one in charge of your pastry! Only he knows how the cooking he\'s been doing will end up depending on the temperature, so he gets to use fridges that offer him many different resting temperatures. Yes, in a way, our Oven Instrumentalists are also Fridge Instrumentalists!",
-              "type": "paragraph",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Time to get pretty",
-              "type": "heading2",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Once well-rested, and after yawning quite a few times, our pastries get their party dresses on, and get as pretty as possible for their dance ball! Our Pastry Dressers know just how the pastries look the best, to create an entirely immersive experience, not only for taste buds, for for your eyes as well.",
-              "type": "paragraph",
-            },
-            Object {
-              "spans": Array [],
-              "text": "From the ganache shape to the dusting of the toppings, our Pastry Dressers get the visual most of our pastries, for your eyes\' pleasure...",
-              "type": "paragraph",
-            },
-            Object {
-              "spans": Array [],
-              "text": "Hanging out with our customers",
-              "type": "heading2",
-            },
-            Object {
-              "spans": Array [
-                Object {
-                  "end": 341,
-                  "start": 324,
-                  "type": "em",
-                },
-              ],
-              "text": "Now, the day of our pastry is over! It can get to hang out with our customers, and seem as pretty as possible, to be the one to get to delight you. Our pastries have a short amount of time to convince you, as their optimum taste lasts within 10 first hours they exist; also, tomorrow morning, it will be a new generation of Les Bonnes Choses pastries waking up in the morning as simple ingredients.",
-              "type": "paragraph",
-            },
-          ],
         },
         "blog-post.category": Object {
           "value": "Behind the scenes",
@@ -6951,7 +6710,7 @@ Response {
 
 exports[`Query Should accept options 1`] = `
 Response {
-  "next_page": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&page=2&pageSize=5",
+  "next_page": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&page=2&pageSize=20",
   "page": 1,
   "prev_page": null,
   "results": Array [
@@ -8420,10 +8179,4418 @@ Response {
       "type": "store",
       "uid": null,
     },
+    Object {
+      "data": Object {
+        "store.address": Object {
+          "type": "Text",
+          "value": "1, The Market",
+        },
+        "store.city": Object {
+          "type": "Text",
+          "value": "London",
+        },
+        "store.country": Object {
+          "type": "Select",
+          "value": "United Kingdom",
+        },
+        "store.description": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Right outside the Covent Garden Market, will you get a fine pastry with that tea?",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "store.friday": Array [
+          Object {
+            "type": "Text",
+            "value": "9am - 8pm",
+          },
+        ],
+        "store.image": Object {
+          "type": "Image",
+          "value": Object {
+            "main": Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 500,
+                "width": 1500,
+              },
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/145fed5b13d96d9d7fd437532b9e1ec3ec382376.jpg",
+            },
+            "views": Object {
+              "icon": Object {
+                "alt": null,
+                "copyright": null,
+                "dimensions": Object {
+                  "height": 250,
+                  "width": 250,
+                },
+                "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/00225a3a5c3e4cf6fcf4554145918e6637ed2f6b.jpg",
+              },
+              "medium": Object {
+                "alt": null,
+                "copyright": null,
+                "dimensions": Object {
+                  "height": 250,
+                  "width": 800,
+                },
+                "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/cbb529231fc3b42769688cf02d0554a2be6ca2a2.jpg",
+              },
+            },
+          },
+        },
+        "store.monday": Array [
+          Object {
+            "type": "Text",
+            "value": "9am - 8pm",
+          },
+        ],
+        "store.name": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "London Covent Garden",
+              "type": "heading1",
+            },
+          ],
+        },
+        "store.saturday": Array [
+          Object {
+            "type": "Text",
+            "value": "9am - 8pm",
+          },
+        ],
+        "store.sunday": Array [
+          Object {
+            "type": "Text",
+            "value": "9am - 8pm",
+          },
+        ],
+        "store.thursday": Array [
+          Object {
+            "type": "Text",
+            "value": "9am - 8pm",
+          },
+        ],
+        "store.tuesday": Array [
+          Object {
+            "type": "Text",
+            "value": "9am - 8pm",
+          },
+        ],
+        "store.wednesday": Array [
+          Object {
+            "type": "Text",
+            "value": "9am - 8pm",
+          },
+        ],
+        "store.zipcode": Object {
+          "type": "Text",
+          "value": "WC2E 8RA",
+        },
+      },
+      "firstPublicationDate": null,
+      "fragments": Object {
+        "store.address": Object {
+          "value": "1, The Market",
+        },
+        "store.city": Object {
+          "value": "London",
+        },
+        "store.country": Object {
+          "value": "United Kingdom",
+        },
+        "store.description": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Right outside the Covent Garden Market, will you get a fine pastry with that tea?",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "store.friday": Array [
+          Object {
+            "value": "9am - 8pm",
+          },
+        ],
+        "store.image": Object {
+          "main": Object {
+            "alt": null,
+            "height": 500,
+            "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/145fed5b13d96d9d7fd437532b9e1ec3ec382376.jpg",
+            "width": 1500,
+          },
+          "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/145fed5b13d96d9d7fd437532b9e1ec3ec382376.jpg",
+          "views": Object {
+            "icon": Object {
+              "alt": null,
+              "height": 250,
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/00225a3a5c3e4cf6fcf4554145918e6637ed2f6b.jpg",
+              "width": 250,
+            },
+            "medium": Object {
+              "alt": null,
+              "height": 250,
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/cbb529231fc3b42769688cf02d0554a2be6ca2a2.jpg",
+              "width": 800,
+            },
+          },
+        },
+        "store.monday": Array [
+          Object {
+            "value": "9am - 8pm",
+          },
+        ],
+        "store.name": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "London Covent Garden",
+              "type": "heading1",
+            },
+          ],
+        },
+        "store.saturday": Array [
+          Object {
+            "value": "9am - 8pm",
+          },
+        ],
+        "store.sunday": Array [
+          Object {
+            "value": "9am - 8pm",
+          },
+        ],
+        "store.thursday": Array [
+          Object {
+            "value": "9am - 8pm",
+          },
+        ],
+        "store.tuesday": Array [
+          Object {
+            "value": "9am - 8pm",
+          },
+        ],
+        "store.wednesday": Array [
+          Object {
+            "value": "9am - 8pm",
+          },
+        ],
+        "store.zipcode": Object {
+          "value": "WC2E 8RA",
+        },
+      },
+      "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbr%22%29+%5D%5D",
+      "id": "UlfoxUnM0wkXYXbr",
+      "lastPublicationDate": null,
+      "slug": "london-covent-garden",
+      "slugs": Array [
+        "london-covent-garden",
+      ],
+      "tags": Array [],
+      "type": "store",
+      "uid": null,
+    },
+    Object {
+      "data": Object {
+        "store.address": Object {
+          "type": "Text",
+          "value": "101 avenue des Champs-Élysées",
+        },
+        "store.city": Object {
+          "type": "Text",
+          "value": "PARIS",
+        },
+        "store.country": Object {
+          "type": "Select",
+          "value": "France",
+        },
+        "store.description": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "The finest pastries for the most beautiful avenue in the world, what\'s not to like?",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "store.friday": Array [
+          Object {
+            "type": "Text",
+            "value": "9am - 2pm",
+          },
+          Object {
+            "type": "Text",
+            "value": "3pm - 7pm",
+          },
+        ],
+        "store.image": Object {
+          "type": "Image",
+          "value": Object {
+            "main": Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 500,
+                "width": 1500,
+              },
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/c015d6886596db26ba6147fd65f4b3b7166b9cae.jpg",
+            },
+            "views": Object {
+              "icon": Object {
+                "alt": null,
+                "copyright": null,
+                "dimensions": Object {
+                  "height": 250,
+                  "width": 250,
+                },
+                "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/0ced56db3b895939b51608ef5d6d3f22e0cf8608.jpg",
+              },
+              "medium": Object {
+                "alt": null,
+                "copyright": null,
+                "dimensions": Object {
+                  "height": 250,
+                  "width": 800,
+                },
+                "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/363fbf22a38627ef1b89f3ea86849806f36391c4.jpg",
+              },
+            },
+          },
+        },
+        "store.monday": Array [
+          Object {
+            "type": "Text",
+            "value": "9am - 2pm",
+          },
+          Object {
+            "type": "Text",
+            "value": "3pm - 7pm",
+          },
+        ],
+        "store.name": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Paris Champ-Elysées",
+              "type": "heading1",
+            },
+          ],
+        },
+        "store.saturday": Array [
+          Object {
+            "type": "Text",
+            "value": "9am - 2pm",
+          },
+          Object {
+            "type": "Text",
+            "value": "3pm - 7pm",
+          },
+        ],
+        "store.sunday": Array [
+          Object {
+            "type": "Text",
+            "value": "9am - 2pm",
+          },
+        ],
+        "store.thursday": Array [
+          Object {
+            "type": "Text",
+            "value": "9am - 2pm",
+          },
+          Object {
+            "type": "Text",
+            "value": "3pm - 7pm",
+          },
+        ],
+        "store.tuesday": Array [
+          Object {
+            "type": "Text",
+            "value": "9am - 2pm",
+          },
+          Object {
+            "type": "Text",
+            "value": "3pm - 7pm",
+          },
+        ],
+        "store.wednesday": Array [
+          Object {
+            "type": "Text",
+            "value": "9am - 2pm",
+          },
+          Object {
+            "type": "Text",
+            "value": "3pm - 7pm",
+          },
+        ],
+        "store.zipcode": Object {
+          "type": "Text",
+          "value": "75008",
+        },
+      },
+      "firstPublicationDate": null,
+      "fragments": Object {
+        "store.address": Object {
+          "value": "101 avenue des Champs-Élysées",
+        },
+        "store.city": Object {
+          "value": "PARIS",
+        },
+        "store.country": Object {
+          "value": "France",
+        },
+        "store.description": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "The finest pastries for the most beautiful avenue in the world, what\'s not to like?",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "store.friday": Array [
+          Object {
+            "value": "9am - 2pm",
+          },
+          Object {
+            "value": "3pm - 7pm",
+          },
+        ],
+        "store.image": Object {
+          "main": Object {
+            "alt": null,
+            "height": 500,
+            "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/c015d6886596db26ba6147fd65f4b3b7166b9cae.jpg",
+            "width": 1500,
+          },
+          "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/c015d6886596db26ba6147fd65f4b3b7166b9cae.jpg",
+          "views": Object {
+            "icon": Object {
+              "alt": null,
+              "height": 250,
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/0ced56db3b895939b51608ef5d6d3f22e0cf8608.jpg",
+              "width": 250,
+            },
+            "medium": Object {
+              "alt": null,
+              "height": 250,
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/363fbf22a38627ef1b89f3ea86849806f36391c4.jpg",
+              "width": 800,
+            },
+          },
+        },
+        "store.monday": Array [
+          Object {
+            "value": "9am - 2pm",
+          },
+          Object {
+            "value": "3pm - 7pm",
+          },
+        ],
+        "store.name": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Paris Champ-Elysées",
+              "type": "heading1",
+            },
+          ],
+        },
+        "store.saturday": Array [
+          Object {
+            "value": "9am - 2pm",
+          },
+          Object {
+            "value": "3pm - 7pm",
+          },
+        ],
+        "store.sunday": Array [
+          Object {
+            "value": "9am - 2pm",
+          },
+        ],
+        "store.thursday": Array [
+          Object {
+            "value": "9am - 2pm",
+          },
+          Object {
+            "value": "3pm - 7pm",
+          },
+        ],
+        "store.tuesday": Array [
+          Object {
+            "value": "9am - 2pm",
+          },
+          Object {
+            "value": "3pm - 7pm",
+          },
+        ],
+        "store.wednesday": Array [
+          Object {
+            "value": "9am - 2pm",
+          },
+          Object {
+            "value": "3pm - 7pm",
+          },
+        ],
+        "store.zipcode": Object {
+          "value": "75008",
+        },
+      },
+      "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbP%22%29+%5D%5D",
+      "id": "UlfoxUnM0wkXYXbP",
+      "lastPublicationDate": null,
+      "slug": "paris-champ-elysees",
+      "slugs": Array [
+        "paris-champ-elysees",
+      ],
+      "tags": Array [],
+      "type": "store",
+      "uid": null,
+    },
+    Object {
+      "data": Object {
+        "job-offer.contract_type": Object {
+          "type": "Select",
+          "value": "Permanent",
+        },
+        "job-offer.job_description": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "One sentence to let you feel the thrill of your responsibility: you\'re the last person to be able to make the pastry better before it ends up in the customer\'s hands. Yes, it\'s that serious. You get the piece from your teammates, and you\'re the one who is supposed to let the pastry express the kind of treasure it is. With a bit of dusting, an extra topping, or a chocolate drawing, you envision the pastry in its most seductive form, and are so precise with your brush that what you make of it simply enhances it to perfection.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "job-offer.location": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbU",
+                "slug": "tokyo-roppongi-hills",
+                "tags": Array [],
+                "type": "store",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "job-offer.name": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Pastry Dresser",
+              "type": "heading1",
+            },
+          ],
+        },
+        "job-offer.profile": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "If you are the kind of person who gets intense, insane, almost neurotic about perfection and details, you are exactly the type we\'re looking for; but be aware that this job will not make your condition better! With an art background and a perfect mastery of the finest paintbrushes, you can modify every bit of an object to make it shine even brighter.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "job-offer.service": Object {
+          "type": "Select",
+          "value": "Workshop",
+        },
+      },
+      "firstPublicationDate": null,
+      "fragments": Object {
+        "job-offer.contract_type": Object {
+          "value": "Permanent",
+        },
+        "job-offer.job_description": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "One sentence to let you feel the thrill of your responsibility: you\'re the last person to be able to make the pastry better before it ends up in the customer\'s hands. Yes, it\'s that serious. You get the piece from your teammates, and you\'re the one who is supposed to let the pastry express the kind of treasure it is. With a bit of dusting, an extra topping, or a chocolate drawing, you envision the pastry in its most seductive form, and are so precise with your brush that what you make of it simply enhances it to perfection.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "job-offer.location": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbU",
+              "slug": "tokyo-roppongi-hills",
+              "tags": Array [],
+              "type": "store",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbU",
+            "isBroken": false,
+            "slug": "tokyo-roppongi-hills",
+            "tags": Array [],
+            "type": "store",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbU",
+                "slug": "tokyo-roppongi-hills",
+                "tags": Array [],
+                "type": "store",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "job-offer.name": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Pastry Dresser",
+              "type": "heading1",
+            },
+          ],
+        },
+        "job-offer.profile": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "If you are the kind of person who gets intense, insane, almost neurotic about perfection and details, you are exactly the type we\'re looking for; but be aware that this job will not make your condition better! With an art background and a perfect mastery of the finest paintbrushes, you can modify every bit of an object to make it shine even brighter.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "job-offer.service": Object {
+          "value": "Workshop",
+        },
+      },
+      "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbh%22%29+%5D%5D",
+      "id": "UlfoxUnM0wkXYXbh",
+      "lastPublicationDate": null,
+      "slug": "pastry-dresser",
+      "slugs": Array [
+        "pastry-dresser",
+      ],
+      "tags": Array [],
+      "type": "job-offer",
+      "uid": null,
+    },
+    Object {
+      "data": Object {
+        "product.allergens": Object {
+          "type": "Text",
+          "value": "Contains milk, egg and kiwi.",
+        },
+        "product.color": Object {
+          "type": "Color",
+          "value": "#00dc48",
+        },
+        "product.description": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Some pastries taste so exotic that they feel like you\'re experimenting a whole new kind of food. Well, that\'s not what our Exotic Kiwi Pie is. Our Exotic Kiwi Pie is so much an expression of exotism, that you\'ll feel like it just made you travel, right from your seat! Have it on a busy rainy day, and you\'ll instantly feel the relaxness of tropical sun lifestyle.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "type": "Select",
+            "value": "Soft fruit",
+          },
+        ],
+        "product.image": Object {
+          "type": "Image",
+          "value": Object {
+            "main": Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 500,
+                "width": 500,
+              },
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/f606ad513fcc2a73b909817119b84d6fd0d61a6d.png",
+            },
+            "views": Object {
+              "icon": Object {
+                "alt": null,
+                "copyright": null,
+                "dimensions": Object {
+                  "height": 250,
+                  "width": 250,
+                },
+                "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/fe4f9379ee325456992d48204b8d94aeb60cc976.png",
+              },
+            },
+          },
+        },
+        "product.name": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Exotic Kiwi Pie",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "type": "Number",
+          "value": 2.5,
+        },
+        "product.short_lede": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "A sunshiny mouthful",
+              "type": "heading2",
+            },
+          ],
+        },
+        "product.testimonial_author": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Chef Bort",
+              "type": "heading3",
+            },
+          ],
+        },
+        "product.testimonial_quote": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 173,
+                  "start": 156,
+                  "type": "em",
+                },
+              ],
+              "text": "In my career as a chef, about half of the restaurants I opened have been fruit-based restaurants; so you might say I know a thing or two about fruit. Well, Les Bonnes Choses\'s Exotic Kiwi Pie managed to teach me brand new feelings and techniques, and it\'s amazingly humbling for an old dog like me, whose raison d\'être is to know all the newest tricks.",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "firstPublicationDate": null,
+      "fragments": Object {
+        "product.allergens": Object {
+          "value": "Contains milk, egg and kiwi.",
+        },
+        "product.color": Object {
+          "value": "#00dc48",
+        },
+        "product.description": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Some pastries taste so exotic that they feel like you\'re experimenting a whole new kind of food. Well, that\'s not what our Exotic Kiwi Pie is. Our Exotic Kiwi Pie is so much an expression of exotism, that you\'ll feel like it just made you travel, right from your seat! Have it on a busy rainy day, and you\'ll instantly feel the relaxness of tropical sun lifestyle.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "value": "Soft fruit",
+          },
+        ],
+        "product.image": Object {
+          "main": Object {
+            "alt": null,
+            "height": 500,
+            "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/f606ad513fcc2a73b909817119b84d6fd0d61a6d.png",
+            "width": 500,
+          },
+          "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/f606ad513fcc2a73b909817119b84d6fd0d61a6d.png",
+          "views": Object {
+            "icon": Object {
+              "alt": null,
+              "height": 250,
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/fe4f9379ee325456992d48204b8d94aeb60cc976.png",
+              "width": 250,
+            },
+          },
+        },
+        "product.name": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Exotic Kiwi Pie",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "value": 2.5,
+        },
+        "product.short_lede": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "A sunshiny mouthful",
+              "type": "heading2",
+            },
+          ],
+        },
+        "product.testimonial_author": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Chef Bort",
+              "type": "heading3",
+            },
+          ],
+        },
+        "product.testimonial_quote": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 173,
+                  "start": 156,
+                  "type": "em",
+                },
+              ],
+              "text": "In my career as a chef, about half of the restaurants I opened have been fruit-based restaurants; so you might say I know a thing or two about fruit. Well, Les Bonnes Choses\'s Exotic Kiwi Pie managed to teach me brand new feelings and techniques, and it\'s amazingly humbling for an old dog like me, whose raison d\'être is to know all the newest tricks.",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbO%22%29+%5D%5D",
+      "id": "UlfoxUnM0wkXYXbO",
+      "lastPublicationDate": null,
+      "slug": "exotic-kiwi-pie",
+      "slugs": Array [
+        "exotic-kiwi-pie",
+      ],
+      "tags": Array [
+        "Pie",
+      ],
+      "type": "product",
+      "uid": null,
+    },
+    Object {
+      "data": Object {
+        "product.color": Object {
+          "type": "Color",
+          "value": "#fe001f",
+        },
+        "product.description": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "As any camper would tell you, in the morning, the whole forest gets a thin, thin layer of condensed water, giving trees and fruits alike a wilderness that regenerates their spirit for the rest of the day. As they were growing, our cherries knew nothing but this empowering dew, and they top our Woodland Cherry Pie with the same wilderness they\'ve been growing for.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "type": "Select",
+            "value": "Soft fruit",
+          },
+        ],
+        "product.image": Object {
+          "type": "Image",
+          "value": Object {
+            "main": Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 500,
+                "width": 500,
+              },
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/206f3e7f2a865fa7b1c3826fbbba923361cdb038.png",
+            },
+            "views": Object {
+              "icon": Object {
+                "alt": null,
+                "copyright": null,
+                "dimensions": Object {
+                  "height": 250,
+                  "width": 250,
+                },
+                "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/a1d6d4ccdfd3dc4b20bdc5e2b27ccde05c406b6a.png",
+              },
+            },
+          },
+        },
+        "product.name": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Woodland Cherry Pie",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "type": "Number",
+          "value": 4.55,
+        },
+        "product.related": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbO",
+                "slug": "exotic-kiwi-pie",
+                "tags": Array [
+                  "Pie",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbK",
+                "slug": "hot-berry-cupcake",
+                "tags": Array [
+                  "Cupcake",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "product.short_lede": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Enjoy the sweet wilderness",
+              "type": "heading2",
+            },
+          ],
+        },
+      },
+      "firstPublicationDate": null,
+      "fragments": Object {
+        "product.color": Object {
+          "value": "#fe001f",
+        },
+        "product.description": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "As any camper would tell you, in the morning, the whole forest gets a thin, thin layer of condensed water, giving trees and fruits alike a wilderness that regenerates their spirit for the rest of the day. As they were growing, our cherries knew nothing but this empowering dew, and they top our Woodland Cherry Pie with the same wilderness they\'ve been growing for.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "value": "Soft fruit",
+          },
+        ],
+        "product.image": Object {
+          "main": Object {
+            "alt": null,
+            "height": 500,
+            "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/206f3e7f2a865fa7b1c3826fbbba923361cdb038.png",
+            "width": 500,
+          },
+          "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/206f3e7f2a865fa7b1c3826fbbba923361cdb038.png",
+          "views": Object {
+            "icon": Object {
+              "alt": null,
+              "height": 250,
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/a1d6d4ccdfd3dc4b20bdc5e2b27ccde05c406b6a.png",
+              "width": 250,
+            },
+          },
+        },
+        "product.name": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Woodland Cherry Pie",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "value": 4.55,
+        },
+        "product.related": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbO",
+              "slug": "exotic-kiwi-pie",
+              "tags": Array [
+                "Pie",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbO",
+            "isBroken": false,
+            "slug": "exotic-kiwi-pie",
+            "tags": Array [
+              "Pie",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbO",
+                "slug": "exotic-kiwi-pie",
+                "tags": Array [
+                  "Pie",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbK",
+              "slug": "hot-berry-cupcake",
+              "tags": Array [
+                "Cupcake",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbK",
+            "isBroken": false,
+            "slug": "hot-berry-cupcake",
+            "tags": Array [
+              "Cupcake",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbK",
+                "slug": "hot-berry-cupcake",
+                "tags": Array [
+                  "Cupcake",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "product.short_lede": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Enjoy the sweet wilderness",
+              "type": "heading2",
+            },
+          ],
+        },
+      },
+      "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbe%22%29+%5D%5D",
+      "id": "UlfoxUnM0wkXYXbe",
+      "lastPublicationDate": null,
+      "slug": "woodland-cherry-pie",
+      "slugs": Array [
+        "woodland-cherry-pie",
+      ],
+      "tags": Array [
+        "Pie",
+      ],
+      "type": "product",
+      "uid": null,
+    },
+    Object {
+      "data": Object {
+        "blog-post.allow_comments": Object {
+          "type": "Select",
+          "value": "No",
+        },
+        "blog-post.author": Object {
+          "type": "Text",
+          "value": "Jean-Pierre Durand, Head of Communication",
+        },
+        "blog-post.body": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "The end of a chapter the beginning of a new one",
+              "type": "heading1",
+            },
+            Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 960,
+                "width": 640,
+              },
+              "type": "image",
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/8181933ff2f5032daff7d732e33a3beb6f57e09f.jpg",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 56,
+                  "start": 39,
+                  "type": "em",
+                },
+                Object {
+                  "end": 200,
+                  "start": 183,
+                  "type": "em",
+                },
+              ],
+              "text": "Jean-Michel Pastranova, the founder of Les Bonnes Choses, and creator of the whole concept of modern fine pastry, has decided to step down as the CEO and the Director of Workshops of Les Bonnes Choses, to focus on other projects, among which his now best-selling pastry cook books, but also to take on a primary role in a culinary television show to be announced later this year.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 43,
+                  "start": 26,
+                  "type": "em",
+                },
+                Object {
+                  "end": 90,
+                  "start": 73,
+                  "type": "em",
+                },
+                Object {
+                  "end": 331,
+                  "start": 314,
+                  "type": "em",
+                },
+              ],
+              "text": "\"I believe I\'ve taken the Les Bonnes Choses concept as far as it can go. Les Bonnes Choses is already an entity that is driven by its people, thanks to a strong internal culture, so I don\'t feel like they need me as much as they used to. I\'m sure they are greater ways to come, to innovate in pastry, and I\'m sure Les Bonnes Choses\'s coming innovation will be even more mind-blowing than if I had stayed longer.\"",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "He will remain as a senior advisor to the board, and to the workshop artists, as his daughter Selena, who has been working with him for several years, will fulfill the CEO role from now on.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "\"My father was able not only to create a revolutionary concept, but also a company culture that puts everyone in charge of driving the company\'s innovation and quality. That gives us years, maybe decades of revolutionary ideas to come, and there\'s still a long, wonderful path to walk in the fine pastry world.\"",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "blog-post.category": Object {
+          "type": "Select",
+          "value": "Announcements",
+        },
+        "blog-post.date": Object {
+          "type": "Date",
+          "value": "2013-09-25",
+        },
+        "blog-post.relatedpost": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbl",
+                "slug": "our-world-famous-pastry-art-brainstorm-event",
+                "tags": Array [],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbu",
+                "slug": "les-bonnes-chosess-internship-a-testimony",
+                "tags": Array [],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "blog-post.relatedproduct": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbJ",
+                "slug": "pistachio-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbL",
+                "slug": "-",
+                "tags": Array [],
+                "type": "product",
+              },
+              "isBroken": true,
+            },
+          },
+        ],
+        "blog-post.shortlede": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Jean-Michel Pastranova steps down as the CEO of Les Bonnes Choses.",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "firstPublicationDate": null,
+      "fragments": Object {
+        "blog-post.allow_comments": Object {
+          "value": "No",
+        },
+        "blog-post.author": Object {
+          "value": "Jean-Pierre Durand, Head of Communication",
+        },
+        "blog-post.body": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "The end of a chapter the beginning of a new one",
+              "type": "heading1",
+            },
+            Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 960,
+                "width": 640,
+              },
+              "type": "image",
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/8181933ff2f5032daff7d732e33a3beb6f57e09f.jpg",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 56,
+                  "start": 39,
+                  "type": "em",
+                },
+                Object {
+                  "end": 200,
+                  "start": 183,
+                  "type": "em",
+                },
+              ],
+              "text": "Jean-Michel Pastranova, the founder of Les Bonnes Choses, and creator of the whole concept of modern fine pastry, has decided to step down as the CEO and the Director of Workshops of Les Bonnes Choses, to focus on other projects, among which his now best-selling pastry cook books, but also to take on a primary role in a culinary television show to be announced later this year.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 43,
+                  "start": 26,
+                  "type": "em",
+                },
+                Object {
+                  "end": 90,
+                  "start": 73,
+                  "type": "em",
+                },
+                Object {
+                  "end": 331,
+                  "start": 314,
+                  "type": "em",
+                },
+              ],
+              "text": "\"I believe I\'ve taken the Les Bonnes Choses concept as far as it can go. Les Bonnes Choses is already an entity that is driven by its people, thanks to a strong internal culture, so I don\'t feel like they need me as much as they used to. I\'m sure they are greater ways to come, to innovate in pastry, and I\'m sure Les Bonnes Choses\'s coming innovation will be even more mind-blowing than if I had stayed longer.\"",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "He will remain as a senior advisor to the board, and to the workshop artists, as his daughter Selena, who has been working with him for several years, will fulfill the CEO role from now on.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "\"My father was able not only to create a revolutionary concept, but also a company culture that puts everyone in charge of driving the company\'s innovation and quality. That gives us years, maybe decades of revolutionary ideas to come, and there\'s still a long, wonderful path to walk in the fine pastry world.\"",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "blog-post.category": Object {
+          "value": "Announcements",
+        },
+        "blog-post.date": Object {
+          "value": 2013-09-25T00:00:00.000Z,
+        },
+        "blog-post.relatedpost": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbl",
+              "slug": "our-world-famous-pastry-art-brainstorm-event",
+              "tags": Array [],
+              "type": "blog-post",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbl",
+            "isBroken": false,
+            "slug": "our-world-famous-pastry-art-brainstorm-event",
+            "tags": Array [],
+            "type": "blog-post",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbl",
+                "slug": "our-world-famous-pastry-art-brainstorm-event",
+                "tags": Array [],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbu",
+              "slug": "les-bonnes-chosess-internship-a-testimony",
+              "tags": Array [],
+              "type": "blog-post",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbu",
+            "isBroken": false,
+            "slug": "les-bonnes-chosess-internship-a-testimony",
+            "tags": Array [],
+            "type": "blog-post",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbu",
+                "slug": "les-bonnes-chosess-internship-a-testimony",
+                "tags": Array [],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "blog-post.relatedproduct": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbJ",
+              "slug": "pistachio-macaron",
+              "tags": Array [
+                "Macaron",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbJ",
+            "isBroken": false,
+            "slug": "pistachio-macaron",
+            "tags": Array [
+              "Macaron",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbJ",
+                "slug": "pistachio-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbL",
+              "slug": "-",
+              "tags": Array [],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbL",
+            "isBroken": true,
+            "slug": "-",
+            "tags": Array [],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbL",
+                "slug": "-",
+                "tags": Array [],
+                "type": "product",
+              },
+              "isBroken": true,
+            },
+          },
+        ],
+        "blog-post.shortlede": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Jean-Michel Pastranova steps down as the CEO of Les Bonnes Choses.",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbt%22%29+%5D%5D",
+      "id": "UlfoxUnM0wkXYXbt",
+      "lastPublicationDate": null,
+      "slug": "the-end-of-a-chapter-the-beginning-of-a-new-one",
+      "slugs": Array [
+        "the-end-of-a-chapter-the-beginning-of-a-new-one",
+      ],
+      "tags": Array [],
+      "type": "blog-post",
+      "uid": null,
+    },
+    Object {
+      "data": Object {
+        "blog-post.allow_comments": Object {
+          "type": "Select",
+          "value": "Yes",
+        },
+        "blog-post.author": Object {
+          "type": "Text",
+          "value": "Steve Adams, Ganache Specialist",
+        },
+        "blog-post.body": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Get the right approach to ganache",
+              "type": "heading1",
+            },
+            Object {
+              "spans": Array [],
+              "text": "A lot of people touch base with us to know about one of our key ingredients, and the essential role it plays in our creations: ganache.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Indeed, ganache is the macaron\'s softener, or else, macarons would be but tough biscuits; it is the cupcake\'s wrapper, or else, cupcakes would be but plain old cake. We even sometimes use ganache within our cupcakes, to soften the cake itself, or as a support to our pies\' content.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "How to approach ganache",
+              "type": "heading2",
+            },
+            Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 425,
+                "width": 640,
+              },
+              "type": "image",
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/ee7b984b98db4516aba2eabd54ab498293913c6c.jpg",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Apart from the taste balance, which is always a challenge when it comes to pastry, the tough part about ganache is about thickness. It is even harder to predict through all the phases the ganache gets to meet (how long will it get melted? how long will it remain in the fridge?). Things get a hell of a lot easier to get once you consider that there are two main ways to get the perfect ganache:",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 25,
+                  "start": 0,
+                  "type": "strong",
+                },
+              ],
+              "text": "working from the top down: start with a thick, almost hard material, and soften it by manipulating it, or by mixing it with a more liquid ingredient (like milk)",
+              "type": "list-item",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 26,
+                  "start": 0,
+                  "type": "strong",
+                },
+              ],
+              "text": "working from the bottom up: start from a liquid-ish state, and harden it by miwing it with thicker ingredients, or by leaving it in the fridge longer.",
+              "type": "list-item",
+            },
+            Object {
+              "spans": Array [],
+              "text": "We do hope this advice will empower you in your ganache-making skills. Let us know how you did with it!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 28,
+                  "start": 11,
+                  "type": "em",
+                },
+              ],
+              "text": "Ganache at Les Bonnes Choses",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "We have a saying at Les Bonnes Choses: \"Once you can make ganache, you can make anything.\"",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "As you may know, we like to give our workshop artists the ability to master their art to the top; that is why our Preparation Experts always start off as being Ganache Specialists for Les Bonnes Choses. That way, they\'re given an opportunity to focus on one exercise before moving on. Once they master their ganache, and are able to provide the most optimal delight to our customers, we consider they\'ll thrive as they work on other kinds of preparations.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "About the chocolate in our ganache",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Now, we\'ve also had a lot of questions about how our chocolate gets made. It\'s true, as you might know, that we make it ourselves, from Columbian cocoa and French cow milk, with a process that much resembles the one in the following Discovery Channel documentary.",
+              "type": "paragraph",
+            },
+            Object {
+              "oembed": Object {
+                "author_name": "TRR56",
+                "author_url": "http://www.youtube.com/user/thatsmynamedude",
+                "embed_url": "http://www.youtube.com/watch?v=Ye78F3-CuXY",
+                "height": 344,
+                "html": "<iframe width=\"459\" height=\"344\" src=\"http://www.youtube.com/embed/Ye78F3-CuXY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+                "provider_name": "YouTube",
+                "provider_url": "http://www.youtube.com/",
+                "thumbnail_height": 360,
+                "thumbnail_url": "http://i1.ytimg.com/vi/Ye78F3-CuXY/hqdefault.jpg",
+                "thumbnail_width": 480,
+                "title": "How It\'s Made Chocolate",
+                "type": "video",
+                "version": "1.0",
+                "width": 459,
+              },
+              "type": "embed",
+            },
+          ],
+        },
+        "blog-post.category": Object {
+          "type": "Select",
+          "value": "Do it yourself",
+        },
+        "blog-post.date": Object {
+          "type": "Date",
+          "value": "2013-07-24",
+        },
+        "blog-post.relatedpost": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbm",
+                "slug": "tips-to-dress-a-pastry",
+                "tags": Array [
+                  "Featured",
+                ],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbu",
+                "slug": "les-bonnes-chosess-internship-a-testimony",
+                "tags": Array [],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "blog-post.relatedproduct": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbj",
+                "slug": "triple-chocolate-cupcake",
+                "tags": Array [
+                  "Cupcake",
+                  "Featured",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbE",
+                "slug": "dark-chocolate-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "blog-post.shortlede": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Ganache is a tricky topic, but here\'s some guidance.",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "firstPublicationDate": null,
+      "fragments": Object {
+        "blog-post.allow_comments": Object {
+          "value": "Yes",
+        },
+        "blog-post.author": Object {
+          "value": "Steve Adams, Ganache Specialist",
+        },
+        "blog-post.body": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Get the right approach to ganache",
+              "type": "heading1",
+            },
+            Object {
+              "spans": Array [],
+              "text": "A lot of people touch base with us to know about one of our key ingredients, and the essential role it plays in our creations: ganache.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Indeed, ganache is the macaron\'s softener, or else, macarons would be but tough biscuits; it is the cupcake\'s wrapper, or else, cupcakes would be but plain old cake. We even sometimes use ganache within our cupcakes, to soften the cake itself, or as a support to our pies\' content.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "How to approach ganache",
+              "type": "heading2",
+            },
+            Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 425,
+                "width": 640,
+              },
+              "type": "image",
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/ee7b984b98db4516aba2eabd54ab498293913c6c.jpg",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Apart from the taste balance, which is always a challenge when it comes to pastry, the tough part about ganache is about thickness. It is even harder to predict through all the phases the ganache gets to meet (how long will it get melted? how long will it remain in the fridge?). Things get a hell of a lot easier to get once you consider that there are two main ways to get the perfect ganache:",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 25,
+                  "start": 0,
+                  "type": "strong",
+                },
+              ],
+              "text": "working from the top down: start with a thick, almost hard material, and soften it by manipulating it, or by mixing it with a more liquid ingredient (like milk)",
+              "type": "list-item",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 26,
+                  "start": 0,
+                  "type": "strong",
+                },
+              ],
+              "text": "working from the bottom up: start from a liquid-ish state, and harden it by miwing it with thicker ingredients, or by leaving it in the fridge longer.",
+              "type": "list-item",
+            },
+            Object {
+              "spans": Array [],
+              "text": "We do hope this advice will empower you in your ganache-making skills. Let us know how you did with it!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 28,
+                  "start": 11,
+                  "type": "em",
+                },
+              ],
+              "text": "Ganache at Les Bonnes Choses",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "We have a saying at Les Bonnes Choses: \"Once you can make ganache, you can make anything.\"",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "As you may know, we like to give our workshop artists the ability to master their art to the top; that is why our Preparation Experts always start off as being Ganache Specialists for Les Bonnes Choses. That way, they\'re given an opportunity to focus on one exercise before moving on. Once they master their ganache, and are able to provide the most optimal delight to our customers, we consider they\'ll thrive as they work on other kinds of preparations.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "About the chocolate in our ganache",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Now, we\'ve also had a lot of questions about how our chocolate gets made. It\'s true, as you might know, that we make it ourselves, from Columbian cocoa and French cow milk, with a process that much resembles the one in the following Discovery Channel documentary.",
+              "type": "paragraph",
+            },
+            Object {
+              "oembed": Object {
+                "author_name": "TRR56",
+                "author_url": "http://www.youtube.com/user/thatsmynamedude",
+                "embed_url": "http://www.youtube.com/watch?v=Ye78F3-CuXY",
+                "height": 344,
+                "html": "<iframe width=\"459\" height=\"344\" src=\"http://www.youtube.com/embed/Ye78F3-CuXY?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>",
+                "provider_name": "YouTube",
+                "provider_url": "http://www.youtube.com/",
+                "thumbnail_height": 360,
+                "thumbnail_url": "http://i1.ytimg.com/vi/Ye78F3-CuXY/hqdefault.jpg",
+                "thumbnail_width": 480,
+                "title": "How It\'s Made Chocolate",
+                "type": "video",
+                "version": "1.0",
+                "width": 459,
+              },
+              "type": "embed",
+            },
+          ],
+        },
+        "blog-post.category": Object {
+          "value": "Do it yourself",
+        },
+        "blog-post.date": Object {
+          "value": 2013-07-24T00:00:00.000Z,
+        },
+        "blog-post.relatedpost": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbm",
+              "slug": "tips-to-dress-a-pastry",
+              "tags": Array [
+                "Featured",
+              ],
+              "type": "blog-post",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbm",
+            "isBroken": false,
+            "slug": "tips-to-dress-a-pastry",
+            "tags": Array [
+              "Featured",
+            ],
+            "type": "blog-post",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbm",
+                "slug": "tips-to-dress-a-pastry",
+                "tags": Array [
+                  "Featured",
+                ],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbu",
+              "slug": "les-bonnes-chosess-internship-a-testimony",
+              "tags": Array [],
+              "type": "blog-post",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbu",
+            "isBroken": false,
+            "slug": "les-bonnes-chosess-internship-a-testimony",
+            "tags": Array [],
+            "type": "blog-post",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbu",
+                "slug": "les-bonnes-chosess-internship-a-testimony",
+                "tags": Array [],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "blog-post.relatedproduct": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbj",
+              "slug": "triple-chocolate-cupcake",
+              "tags": Array [
+                "Cupcake",
+                "Featured",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbj",
+            "isBroken": false,
+            "slug": "triple-chocolate-cupcake",
+            "tags": Array [
+              "Cupcake",
+              "Featured",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbj",
+                "slug": "triple-chocolate-cupcake",
+                "tags": Array [
+                  "Cupcake",
+                  "Featured",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbE",
+              "slug": "dark-chocolate-macaron",
+              "tags": Array [
+                "Macaron",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbE",
+            "isBroken": false,
+            "slug": "dark-chocolate-macaron",
+            "tags": Array [
+              "Macaron",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbE",
+                "slug": "dark-chocolate-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "blog-post.shortlede": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Ganache is a tricky topic, but here\'s some guidance.",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbX%22%29+%5D%5D",
+      "id": "UlfoxUnM0wkXYXbX",
+      "lastPublicationDate": null,
+      "slug": "get-the-right-approach-to-ganache",
+      "slugs": Array [
+        "get-the-right-approach-to-ganache",
+      ],
+      "tags": Array [],
+      "type": "blog-post",
+      "uid": null,
+    },
+    Object {
+      "data": Object {
+        "blog-post.allow_comments": Object {
+          "type": "Select",
+          "value": "Yes",
+        },
+        "blog-post.author": Object {
+          "type": "Text",
+          "value": "Pierre Thompson, Head of London\'s workshop",
+        },
+        "blog-post.category": Object {
+          "type": "Select",
+          "value": "Behind the scenes",
+        },
+        "blog-post.date": Object {
+          "type": "Date",
+          "value": "2013-08-15",
+        },
+        "blog-post.relatedpost": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbm",
+                "slug": "tips-to-dress-a-pastry",
+                "tags": Array [
+                  "Featured",
+                ],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbu",
+                "slug": "les-bonnes-chosess-internship-a-testimony",
+                "tags": Array [],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "blog-post.relatedproduct": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbM",
+                "slug": "salted-caramel-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbD",
+                "slug": "speculoos-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "blog-post.shortlede": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Waking up, running, resting... Your pastry\'s day is an adventure, before meeting you in our shops.",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "firstPublicationDate": null,
+      "fragments": Object {
+        "blog-post.allow_comments": Object {
+          "value": "Yes",
+        },
+        "blog-post.author": Object {
+          "value": "Pierre Thompson, Head of London\'s workshop",
+        },
+        "blog-post.category": Object {
+          "value": "Behind the scenes",
+        },
+        "blog-post.date": Object {
+          "value": 2013-08-15T00:00:00.000Z,
+        },
+        "blog-post.relatedpost": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbm",
+              "slug": "tips-to-dress-a-pastry",
+              "tags": Array [
+                "Featured",
+              ],
+              "type": "blog-post",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbm",
+            "isBroken": false,
+            "slug": "tips-to-dress-a-pastry",
+            "tags": Array [
+              "Featured",
+            ],
+            "type": "blog-post",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbm",
+                "slug": "tips-to-dress-a-pastry",
+                "tags": Array [
+                  "Featured",
+                ],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbu",
+              "slug": "les-bonnes-chosess-internship-a-testimony",
+              "tags": Array [],
+              "type": "blog-post",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbu",
+            "isBroken": false,
+            "slug": "les-bonnes-chosess-internship-a-testimony",
+            "tags": Array [],
+            "type": "blog-post",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbu",
+                "slug": "les-bonnes-chosess-internship-a-testimony",
+                "tags": Array [],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "blog-post.relatedproduct": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbM",
+              "slug": "salted-caramel-macaron",
+              "tags": Array [
+                "Macaron",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbM",
+            "isBroken": false,
+            "slug": "salted-caramel-macaron",
+            "tags": Array [
+              "Macaron",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbM",
+                "slug": "salted-caramel-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbD",
+              "slug": "speculoos-macaron",
+              "tags": Array [
+                "Macaron",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbD",
+            "isBroken": false,
+            "slug": "speculoos-macaron",
+            "tags": Array [
+              "Macaron",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbD",
+                "slug": "speculoos-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "blog-post.shortlede": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Waking up, running, resting... Your pastry\'s day is an adventure, before meeting you in our shops.",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbi%22%29+%5D%5D",
+      "id": "UlfoxUnM0wkXYXbi",
+      "lastPublicationDate": null,
+      "slug": "one-day-in-the-life-of-a-les-bonnes-choses-pastry",
+      "slugs": Array [
+        "one-day-in-the-life-of-a-les-bonnes-choses-pastry",
+      ],
+      "tags": Array [],
+      "type": "blog-post",
+      "uid": null,
+    },
+    Object {
+      "data": Object {
+        "blog-post.allow_comments": Object {
+          "type": "Select",
+          "value": "Yes",
+        },
+        "blog-post.author": Object {
+          "type": "Text",
+          "value": "Tsutomu Kabayashi, Pastry Dresser",
+        },
+        "blog-post.body": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Tips to dress a pastry",
+              "type": "heading1",
+            },
+            Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 666,
+                "width": 640,
+              },
+              "type": "image",
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/7c337a45be34e130923ebaa77297dd8e9bd7c797.jpg",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "data": Object {
+                    "type": "Link.document",
+                    "value": Object {
+                      "document": Object {
+                        "id": "UlfoxUnM0wkXYXbh",
+                        "slug": "pastry-dresser",
+                        "tags": Array [],
+                        "type": "job-offer",
+                      },
+                      "isBroken": false,
+                    },
+                  },
+                  "end": 47,
+                  "start": 32,
+                  "type": "hyperlink",
+                },
+                Object {
+                  "end": 68,
+                  "start": 51,
+                  "type": "em",
+                },
+              ],
+              "text": "Our Pastry Dressers (yes, it is a full-time job in Les Bonnes Choses!) have it somewhat different from our other pastry artists: while the others keep their main focus on the taste, smell, and potentially touch of your pastries, the Pastry Dressers are mainly focused on their looks.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "It sometimes makes them feem like they\'re doing a job that is reasonably different from plain old pastry, and to make the most of your pastry dressings, perhaps so should you!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Step by step",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "From bottom to top, the steps towards a great dressing are pretty clear, and change rarely.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Pastry Dresser, or speleologist?",
+              "type": "heading3",
+            },
+            Object {
+              "spans": Array [],
+              "text": "One of the first handy phases of dressing your pastry will be about carving to get to a desired shape and size to build upon. This is very precise work, as you will need to clean the object without breaking it, to remove pieces of it while keeping intact the meaningful bits. Now you\'re ready to iterate upon it!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Pastry Dresser, or clay sculptor?",
+              "type": "heading3",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Then, you will need to shape your piece of art into the design you have in mind, by adding the right materials to just the right places. Ganache is your friend in such moments, such as any shape-free material. You\'ll have to master them, so they obey to the shapes you have in mind.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Pastry Dresser, or hairdresser?",
+              "type": "heading3",
+            },
+            Object {
+              "spans": Array [],
+              "text": "The top of the pastry is a priority zone for finalization. This is where your \"last touch\" goes, and it\'s tremendously important, as it gives the pastry most of its character. You will have to play with the details, to keep the top of your piece on the... top of your priorities!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Before starting",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Finishing by the beginning: what did we have to consider, before running towards the aforementioned steps?",
+              "type": "paragraph",
+            },
+            Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 427,
+                "width": 640,
+              },
+              "type": "image",
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/27108a480a1dca3012af843095443aaba75dfb48.jpg",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Pastry Dresser, or illustrator?",
+              "type": "heading3",
+            },
+            Object {
+              "spans": Array [],
+              "text": "We didn\'t mention color, but it\'s a very important component of the piece. Just like an illustrator will pick colors that add to the shape in a matching way to keep a perfect meaning, the colors must be perfect to be consistent with the taste of the piece (do not use green-colored sugar for a strawberry-flavored pastry, if you don\'t want to gross people out!)",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Pastry Dresser, or designer?",
+              "type": "heading3",
+            },
+            Object {
+              "spans": Array [],
+              "text": "And even before the illustration and colors, you really need to take the time to think about your destination, to make sure it\'s nothing short of perfect. This may imply taking the time to sit down for a few minutes with a paper and a pen. The first skill of an imaginative Pastry Dresser is a drawing skill, just like a fashion stylist.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "blog-post.category": Object {
+          "type": "Select",
+          "value": "Do it yourself",
+        },
+        "blog-post.date": Object {
+          "type": "Date",
+          "value": "2013-08-17",
+        },
+        "blog-post.relatedpost": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbX",
+                "slug": "get-the-right-approach-to-ganache",
+                "tags": Array [],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbu",
+                "slug": "les-bonnes-chosess-internship-a-testimony",
+                "tags": Array [],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "blog-post.relatedproduct": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbL",
+                "slug": "-",
+                "tags": Array [],
+                "type": "product",
+              },
+              "isBroken": true,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbI",
+                "slug": "soft-lemon-cupcake",
+                "tags": Array [
+                  "Cupcake",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "blog-post.shortlede": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Getting the best of your pastry dressing will require the best of your imagination.",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "firstPublicationDate": null,
+      "fragments": Object {
+        "blog-post.allow_comments": Object {
+          "value": "Yes",
+        },
+        "blog-post.author": Object {
+          "value": "Tsutomu Kabayashi, Pastry Dresser",
+        },
+        "blog-post.body": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Tips to dress a pastry",
+              "type": "heading1",
+            },
+            Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 666,
+                "width": 640,
+              },
+              "type": "image",
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/7c337a45be34e130923ebaa77297dd8e9bd7c797.jpg",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "data": Object {
+                    "type": "Link.document",
+                    "value": Object {
+                      "document": Object {
+                        "id": "UlfoxUnM0wkXYXbh",
+                        "slug": "pastry-dresser",
+                        "tags": Array [],
+                        "type": "job-offer",
+                      },
+                      "isBroken": false,
+                    },
+                  },
+                  "end": 47,
+                  "start": 32,
+                  "type": "hyperlink",
+                },
+                Object {
+                  "end": 68,
+                  "start": 51,
+                  "type": "em",
+                },
+              ],
+              "text": "Our Pastry Dressers (yes, it is a full-time job in Les Bonnes Choses!) have it somewhat different from our other pastry artists: while the others keep their main focus on the taste, smell, and potentially touch of your pastries, the Pastry Dressers are mainly focused on their looks.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "It sometimes makes them feem like they\'re doing a job that is reasonably different from plain old pastry, and to make the most of your pastry dressings, perhaps so should you!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Step by step",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "From bottom to top, the steps towards a great dressing are pretty clear, and change rarely.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Pastry Dresser, or speleologist?",
+              "type": "heading3",
+            },
+            Object {
+              "spans": Array [],
+              "text": "One of the first handy phases of dressing your pastry will be about carving to get to a desired shape and size to build upon. This is very precise work, as you will need to clean the object without breaking it, to remove pieces of it while keeping intact the meaningful bits. Now you\'re ready to iterate upon it!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Pastry Dresser, or clay sculptor?",
+              "type": "heading3",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Then, you will need to shape your piece of art into the design you have in mind, by adding the right materials to just the right places. Ganache is your friend in such moments, such as any shape-free material. You\'ll have to master them, so they obey to the shapes you have in mind.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Pastry Dresser, or hairdresser?",
+              "type": "heading3",
+            },
+            Object {
+              "spans": Array [],
+              "text": "The top of the pastry is a priority zone for finalization. This is where your \"last touch\" goes, and it\'s tremendously important, as it gives the pastry most of its character. You will have to play with the details, to keep the top of your piece on the... top of your priorities!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Before starting",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Finishing by the beginning: what did we have to consider, before running towards the aforementioned steps?",
+              "type": "paragraph",
+            },
+            Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 427,
+                "width": 640,
+              },
+              "type": "image",
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/27108a480a1dca3012af843095443aaba75dfb48.jpg",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Pastry Dresser, or illustrator?",
+              "type": "heading3",
+            },
+            Object {
+              "spans": Array [],
+              "text": "We didn\'t mention color, but it\'s a very important component of the piece. Just like an illustrator will pick colors that add to the shape in a matching way to keep a perfect meaning, the colors must be perfect to be consistent with the taste of the piece (do not use green-colored sugar for a strawberry-flavored pastry, if you don\'t want to gross people out!)",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Pastry Dresser, or designer?",
+              "type": "heading3",
+            },
+            Object {
+              "spans": Array [],
+              "text": "And even before the illustration and colors, you really need to take the time to think about your destination, to make sure it\'s nothing short of perfect. This may imply taking the time to sit down for a few minutes with a paper and a pen. The first skill of an imaginative Pastry Dresser is a drawing skill, just like a fashion stylist.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "blog-post.category": Object {
+          "value": "Do it yourself",
+        },
+        "blog-post.date": Object {
+          "value": 2013-08-17T00:00:00.000Z,
+        },
+        "blog-post.relatedpost": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbX",
+              "slug": "get-the-right-approach-to-ganache",
+              "tags": Array [],
+              "type": "blog-post",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbX",
+            "isBroken": false,
+            "slug": "get-the-right-approach-to-ganache",
+            "tags": Array [],
+            "type": "blog-post",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbX",
+                "slug": "get-the-right-approach-to-ganache",
+                "tags": Array [],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbu",
+              "slug": "les-bonnes-chosess-internship-a-testimony",
+              "tags": Array [],
+              "type": "blog-post",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbu",
+            "isBroken": false,
+            "slug": "les-bonnes-chosess-internship-a-testimony",
+            "tags": Array [],
+            "type": "blog-post",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbu",
+                "slug": "les-bonnes-chosess-internship-a-testimony",
+                "tags": Array [],
+                "type": "blog-post",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "blog-post.relatedproduct": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbL",
+              "slug": "-",
+              "tags": Array [],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbL",
+            "isBroken": true,
+            "slug": "-",
+            "tags": Array [],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbL",
+                "slug": "-",
+                "tags": Array [],
+                "type": "product",
+              },
+              "isBroken": true,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbI",
+              "slug": "soft-lemon-cupcake",
+              "tags": Array [
+                "Cupcake",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbI",
+            "isBroken": false,
+            "slug": "soft-lemon-cupcake",
+            "tags": Array [
+              "Cupcake",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbI",
+                "slug": "soft-lemon-cupcake",
+                "tags": Array [
+                  "Cupcake",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "blog-post.shortlede": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Getting the best of your pastry dressing will require the best of your imagination.",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbm%22%29+%5D%5D",
+      "id": "UlfoxUnM0wkXYXbm",
+      "lastPublicationDate": null,
+      "slug": "tips-to-dress-a-pastry",
+      "slugs": Array [
+        "tips-to-dress-a-pastry",
+      ],
+      "tags": Array [
+        "Featured",
+      ],
+      "type": "blog-post",
+      "uid": null,
+    },
+    Object {
+      "data": Object {
+        "product.allergens": Object {
+          "type": "Text",
+          "value": "Contains eggs, milk.",
+        },
+        "product.color": Object {
+          "type": "Color",
+          "value": "#661319",
+        },
+        "product.description": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Do you know what\'s better than double-chocolate? Triple-chocolate! The chocolate cake at the bottom supports the chocolate cream, which supports tiny, soft minced chocolate ; and together, they support an overwhelming taste of chocolate in your mouth.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "type": "Select",
+            "value": "Chocolate",
+          },
+        ],
+        "product.gallery": Array [
+          Object {
+            "type": "Image",
+            "value": Object {
+              "main": Object {
+                "alt": null,
+                "copyright": null,
+                "dimensions": Object {
+                  "height": 500,
+                  "width": 1500,
+                },
+                "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/3dd3cb44fe52c9f565d9d2d7b98cba87bac0d652.jpg",
+              },
+              "views": Object {
+                "small": Object {
+                  "alt": null,
+                  "copyright": null,
+                  "dimensions": Object {
+                    "height": 50,
+                    "width": 150,
+                  },
+                  "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/ad08d7e3215ed0e8ba495296b004f5883cb5cf50.jpg",
+                },
+                "squared": Object {
+                  "alt": null,
+                  "copyright": null,
+                  "dimensions": Object {
+                    "height": 500,
+                    "width": 500,
+                  },
+                  "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/8e03ece7a49a73d18af752f6f3f958f48423118f.jpg",
+                },
+              },
+            },
+          },
+        ],
+        "product.image": Object {
+          "type": "Image",
+          "value": Object {
+            "main": Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 500,
+                "width": 500,
+              },
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/bf6819a34ff187c5a59d781351a91834c92b7ebf.png",
+            },
+            "views": Object {
+              "icon": Object {
+                "alt": null,
+                "copyright": null,
+                "dimensions": Object {
+                  "height": 250,
+                  "width": 250,
+                },
+                "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/b4ff61d17daa4a89f127d5db1e103d912e74a2c6.png",
+              },
+            },
+          },
+        },
+        "product.name": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Triple Chocolate Cupcake",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "type": "Number",
+          "value": 4.95,
+        },
+        "product.related": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbE",
+                "slug": "dark-chocolate-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbK",
+                "slug": "hot-berry-cupcake",
+                "tags": Array [
+                  "Cupcake",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "product.short_lede": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Three times the delight",
+              "type": "heading2",
+            },
+          ],
+        },
+        "product.testimonial_author": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Chef Crème",
+              "type": "heading3",
+            },
+          ],
+        },
+        "product.testimonial_quote": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 42,
+                  "start": 0,
+                  "type": "strong",
+                },
+              ],
+              "text": "Shameless chocolate is the best chocolate! While keeping the chocolate tone soften by the cream, this triple-chocolate pleasure does not try to make an excuse for its highly chocolatey taste; which is perfect, as it doesn\'t need to!",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "firstPublicationDate": null,
+      "fragments": Object {
+        "product.allergens": Object {
+          "value": "Contains eggs, milk.",
+        },
+        "product.color": Object {
+          "value": "#661319",
+        },
+        "product.description": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Do you know what\'s better than double-chocolate? Triple-chocolate! The chocolate cake at the bottom supports the chocolate cream, which supports tiny, soft minced chocolate ; and together, they support an overwhelming taste of chocolate in your mouth.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "value": "Chocolate",
+          },
+        ],
+        "product.gallery": Array [
+          Object {
+            "main": Object {
+              "alt": null,
+              "height": 500,
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/3dd3cb44fe52c9f565d9d2d7b98cba87bac0d652.jpg",
+              "width": 1500,
+            },
+            "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/3dd3cb44fe52c9f565d9d2d7b98cba87bac0d652.jpg",
+            "views": Object {
+              "small": Object {
+                "alt": null,
+                "height": 50,
+                "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/ad08d7e3215ed0e8ba495296b004f5883cb5cf50.jpg",
+                "width": 150,
+              },
+              "squared": Object {
+                "alt": null,
+                "height": 500,
+                "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/8e03ece7a49a73d18af752f6f3f958f48423118f.jpg",
+                "width": 500,
+              },
+            },
+          },
+        ],
+        "product.image": Object {
+          "main": Object {
+            "alt": null,
+            "height": 500,
+            "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/bf6819a34ff187c5a59d781351a91834c92b7ebf.png",
+            "width": 500,
+          },
+          "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/bf6819a34ff187c5a59d781351a91834c92b7ebf.png",
+          "views": Object {
+            "icon": Object {
+              "alt": null,
+              "height": 250,
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/b4ff61d17daa4a89f127d5db1e103d912e74a2c6.png",
+              "width": 250,
+            },
+          },
+        },
+        "product.name": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Triple Chocolate Cupcake",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "value": 4.95,
+        },
+        "product.related": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbE",
+              "slug": "dark-chocolate-macaron",
+              "tags": Array [
+                "Macaron",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbE",
+            "isBroken": false,
+            "slug": "dark-chocolate-macaron",
+            "tags": Array [
+              "Macaron",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbE",
+                "slug": "dark-chocolate-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbK",
+              "slug": "hot-berry-cupcake",
+              "tags": Array [
+                "Cupcake",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbK",
+            "isBroken": false,
+            "slug": "hot-berry-cupcake",
+            "tags": Array [
+              "Cupcake",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbK",
+                "slug": "hot-berry-cupcake",
+                "tags": Array [
+                  "Cupcake",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "product.short_lede": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Three times the delight",
+              "type": "heading2",
+            },
+          ],
+        },
+        "product.testimonial_author": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Chef Crème",
+              "type": "heading3",
+            },
+          ],
+        },
+        "product.testimonial_quote": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 42,
+                  "start": 0,
+                  "type": "strong",
+                },
+              ],
+              "text": "Shameless chocolate is the best chocolate! While keeping the chocolate tone soften by the cream, this triple-chocolate pleasure does not try to make an excuse for its highly chocolatey taste; which is perfect, as it doesn\'t need to!",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbj%22%29+%5D%5D",
+      "id": "UlfoxUnM0wkXYXbj",
+      "lastPublicationDate": null,
+      "slug": "triple-chocolate-cupcake",
+      "slugs": Array [
+        "triple-chocolate-cupcake",
+      ],
+      "tags": Array [
+        "Cupcake",
+        "Featured",
+      ],
+      "type": "product",
+      "uid": null,
+    },
+    Object {
+      "data": Object {
+        "product.allergens": Object {
+          "type": "Text",
+          "value": "Contains lime, milk and eggs.",
+        },
+        "product.color": Object {
+          "type": "Color",
+          "value": "#f9001b",
+        },
+        "product.description": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Cherry flavour in pastries is always a bit aggressive, and usually doesn\'t care much to let other tastes express themselves. But today, cherry is meeting an opponent who\'s very able to challenge him: pure Italian-imported lime! As they fight for their right to let you experience their magic the result is an explosion of opposing tastes in your mouth! Chocolate dust will serve as the palate-awakening judge of this heated encounter, while the cherry will attempt to display its domination by sitting on the boxing ring.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "type": "Select",
+            "value": "Lemon/lime",
+          },
+          Object {
+            "type": "Select",
+            "value": "Berries",
+          },
+        ],
+        "product.image": Object {
+          "type": "Image",
+          "value": Object {
+            "main": Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 500,
+                "width": 500,
+              },
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/51e5989df54c2141a379725060148a057e8f0541.png",
+            },
+            "views": Object {
+              "icon": Object {
+                "alt": null,
+                "copyright": null,
+                "dimensions": Object {
+                  "height": 250,
+                  "width": 250,
+                },
+                "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/52fdf7c321edf0c6da21b462c872d4c84b6e9fc2.png",
+              },
+            },
+          },
+        },
+        "product.name": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Cherry-Lime Pie",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "type": "Number",
+          "value": 3,
+        },
+        "product.related": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbe",
+                "slug": "woodland-cherry-pie",
+                "tags": Array [
+                  "Pie",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbL",
+                "slug": "-",
+                "tags": Array [],
+                "type": "product",
+              },
+              "isBroken": true,
+            },
+          },
+        ],
+        "product.short_lede": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Sweet and sour, but mostly sweet",
+              "type": "heading2",
+            },
+          ],
+        },
+        "product.testimonial_author": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Chef Crème",
+              "type": "heading3",
+            },
+          ],
+        },
+        "product.testimonial_quote": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 46,
+                  "start": 29,
+                  "type": "em",
+                },
+              ],
+              "text": "If you\'re looking for one of Les Bonnes Choses\'s notoriously daring masterpieces... look no more! Whatever your experience with pastry, this will unsettle you, to a point where you\'ll wonder whether pastry can be taken further than this bold piece of art. To be urgently advised to anyone who believes that pastry can not be an experience by itself.",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "firstPublicationDate": null,
+      "fragments": Object {
+        "product.allergens": Object {
+          "value": "Contains lime, milk and eggs.",
+        },
+        "product.color": Object {
+          "value": "#f9001b",
+        },
+        "product.description": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Cherry flavour in pastries is always a bit aggressive, and usually doesn\'t care much to let other tastes express themselves. But today, cherry is meeting an opponent who\'s very able to challenge him: pure Italian-imported lime! As they fight for their right to let you experience their magic the result is an explosion of opposing tastes in your mouth! Chocolate dust will serve as the palate-awakening judge of this heated encounter, while the cherry will attempt to display its domination by sitting on the boxing ring.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "value": "Lemon/lime",
+          },
+          Object {
+            "value": "Berries",
+          },
+        ],
+        "product.image": Object {
+          "main": Object {
+            "alt": null,
+            "height": 500,
+            "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/51e5989df54c2141a379725060148a057e8f0541.png",
+            "width": 500,
+          },
+          "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/51e5989df54c2141a379725060148a057e8f0541.png",
+          "views": Object {
+            "icon": Object {
+              "alt": null,
+              "height": 250,
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/52fdf7c321edf0c6da21b462c872d4c84b6e9fc2.png",
+              "width": 250,
+            },
+          },
+        },
+        "product.name": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Cherry-Lime Pie",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "value": 3,
+        },
+        "product.related": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbe",
+              "slug": "woodland-cherry-pie",
+              "tags": Array [
+                "Pie",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbe",
+            "isBroken": false,
+            "slug": "woodland-cherry-pie",
+            "tags": Array [
+              "Pie",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbe",
+                "slug": "woodland-cherry-pie",
+                "tags": Array [
+                  "Pie",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbL",
+              "slug": "-",
+              "tags": Array [],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbL",
+            "isBroken": true,
+            "slug": "-",
+            "tags": Array [],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbL",
+                "slug": "-",
+                "tags": Array [],
+                "type": "product",
+              },
+              "isBroken": true,
+            },
+          },
+        ],
+        "product.short_lede": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Sweet and sour, but mostly sweet",
+              "type": "heading2",
+            },
+          ],
+        },
+        "product.testimonial_author": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Chef Crème",
+              "type": "heading3",
+            },
+          ],
+        },
+        "product.testimonial_quote": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 46,
+                  "start": 29,
+                  "type": "em",
+                },
+              ],
+              "text": "If you\'re looking for one of Les Bonnes Choses\'s notoriously daring masterpieces... look no more! Whatever your experience with pastry, this will unsettle you, to a point where you\'ll wonder whether pastry can be taken further than this bold piece of art. To be urgently advised to anyone who believes that pastry can not be an experience by itself.",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbS%22%29+%5D%5D",
+      "id": "UlfoxUnM0wkXYXbS",
+      "lastPublicationDate": null,
+      "slug": "cherry-lime-pie",
+      "slugs": Array [
+        "cherry-lime-pie",
+      ],
+      "tags": Array [
+        "Pie",
+      ],
+      "type": "product",
+      "uid": null,
+    },
+    Object {
+      "data": Object {
+        "product.allergens": Object {
+          "type": "Text",
+          "value": "Contains milk and eggs.",
+        },
+        "product.color": Object {
+          "type": "Color",
+          "value": "#fbe64f",
+        },
+        "product.description": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Did you know that World War I warriors on the French-Belgian frontier called an unauthorized truce in December 1914, so they could celebrate Christmas together? That\'s because in every situation, there\'s much joy to create and receive, from the natural friendship between the French and the Belgian cultures! So when Belgian speculoos meets French macarons, you get to experience the natural chemistry of cultures that are meant to work perfectly together...",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "type": "Select",
+            "value": "Caramel",
+          },
+        ],
+        "product.image": Object {
+          "type": "Image",
+          "value": Object {
+            "main": Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 500,
+                "width": 500,
+              },
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/78ef921308fe727a88530a76f6ab6e1123cdd147.png",
+            },
+            "views": Object {
+              "icon": Object {
+                "alt": null,
+                "copyright": null,
+                "dimensions": Object {
+                  "height": 250,
+                  "width": 250,
+                },
+                "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/4f9baff1349940154a72f06f88332b5800084e5d.png",
+              },
+            },
+          },
+        },
+        "product.name": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Speculoos Macaron",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "type": "Number",
+          "value": 3.5,
+        },
+        "product.related": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbT",
+                "slug": "speculoos-cupcake",
+                "tags": Array [
+                  "Cupcake",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbM",
+                "slug": "salted-caramel-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbH",
+                "slug": "vanilla-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "product.short_lede": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "The Frenchest-speaking pastry",
+              "type": "heading2",
+            },
+          ],
+        },
+        "product.testimonial_author": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Chef Rigot",
+              "type": "heading3",
+            },
+          ],
+        },
+        "product.testimonial_quote": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "During my 15 years polishing my Belgian cuisine skills in Brussels, I made it a challenge to master the way to make speculoos lighter and fluffier, to reveal the true nature of the speculoos taste. Les Bonnes Choses manages just that, brilliantly, with their amazing Speculoos Macaron!",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "firstPublicationDate": null,
+      "fragments": Object {
+        "product.allergens": Object {
+          "value": "Contains milk and eggs.",
+        },
+        "product.color": Object {
+          "value": "#fbe64f",
+        },
+        "product.description": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Did you know that World War I warriors on the French-Belgian frontier called an unauthorized truce in December 1914, so they could celebrate Christmas together? That\'s because in every situation, there\'s much joy to create and receive, from the natural friendship between the French and the Belgian cultures! So when Belgian speculoos meets French macarons, you get to experience the natural chemistry of cultures that are meant to work perfectly together...",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "value": "Caramel",
+          },
+        ],
+        "product.image": Object {
+          "main": Object {
+            "alt": null,
+            "height": 500,
+            "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/78ef921308fe727a88530a76f6ab6e1123cdd147.png",
+            "width": 500,
+          },
+          "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/78ef921308fe727a88530a76f6ab6e1123cdd147.png",
+          "views": Object {
+            "icon": Object {
+              "alt": null,
+              "height": 250,
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/4f9baff1349940154a72f06f88332b5800084e5d.png",
+              "width": 250,
+            },
+          },
+        },
+        "product.name": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Speculoos Macaron",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "value": 3.5,
+        },
+        "product.related": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbT",
+              "slug": "speculoos-cupcake",
+              "tags": Array [
+                "Cupcake",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbT",
+            "isBroken": false,
+            "slug": "speculoos-cupcake",
+            "tags": Array [
+              "Cupcake",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbT",
+                "slug": "speculoos-cupcake",
+                "tags": Array [
+                  "Cupcake",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbM",
+              "slug": "salted-caramel-macaron",
+              "tags": Array [
+                "Macaron",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbM",
+            "isBroken": false,
+            "slug": "salted-caramel-macaron",
+            "tags": Array [
+              "Macaron",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbM",
+                "slug": "salted-caramel-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbH",
+              "slug": "vanilla-macaron",
+              "tags": Array [
+                "Macaron",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbH",
+            "isBroken": false,
+            "slug": "vanilla-macaron",
+            "tags": Array [
+              "Macaron",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbH",
+                "slug": "vanilla-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "product.short_lede": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "The Frenchest-speaking pastry",
+              "type": "heading2",
+            },
+          ],
+        },
+        "product.testimonial_author": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Chef Rigot",
+              "type": "heading3",
+            },
+          ],
+        },
+        "product.testimonial_quote": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "During my 15 years polishing my Belgian cuisine skills in Brussels, I made it a challenge to master the way to make speculoos lighter and fluffier, to reveal the true nature of the speculoos taste. Les Bonnes Choses manages just that, brilliantly, with their amazing Speculoos Macaron!",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbD%22%29+%5D%5D",
+      "id": "UlfoxUnM0wkXYXbD",
+      "lastPublicationDate": null,
+      "slug": "speculoos-macaron",
+      "slugs": Array [
+        "speculoos-macaron",
+      ],
+      "tags": Array [
+        "Macaron",
+      ],
+      "type": "product",
+      "uid": null,
+    },
+    Object {
+      "data": Object {
+        "product.allergens": Object {
+          "type": "Text",
+          "value": "Contains milk, eggs.",
+        },
+        "product.color": Object {
+          "type": "Color",
+          "value": "#75131c",
+        },
+        "product.description": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 296,
+                  "start": 279,
+                  "type": "em",
+                },
+              ],
+              "text": "If you feel like antique, experimented tastes are the way to go, then this macaron is perfect for you! A solid touch of dark chocolate, enveloped by a softening touch of vanilla, will take the best of both familiar world, to carry you to a brand new experience! Because you know Les Bonnes Choses always finds out just how to renew your classics for you...",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "type": "Select",
+            "value": "Vanilla",
+          },
+          Object {
+            "type": "Select",
+            "value": "Chocolate",
+          },
+        ],
+        "product.image": Object {
+          "type": "Image",
+          "value": Object {
+            "main": Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 500,
+                "width": 500,
+              },
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/acc69618fab22be90aed95b39b91b62a80595a6b.png",
+            },
+            "views": Object {
+              "icon": Object {
+                "alt": null,
+                "copyright": null,
+                "dimensions": Object {
+                  "height": 250,
+                  "width": 250,
+                },
+                "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/57739050aced1fff635b72eaa82eb593d7030a8a.png",
+              },
+            },
+          },
+        },
+        "product.name": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Black & White Macaron",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "type": "Number",
+          "value": 3,
+        },
+        "product.related": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbD",
+                "slug": "speculoos-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbH",
+                "slug": "vanilla-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbE",
+                "slug": "dark-chocolate-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "product.short_lede": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Tastes like 60\'s spirit",
+              "type": "heading2",
+            },
+          ],
+        },
+      },
+      "firstPublicationDate": null,
+      "fragments": Object {
+        "product.allergens": Object {
+          "value": "Contains milk, eggs.",
+        },
+        "product.color": Object {
+          "value": "#75131c",
+        },
+        "product.description": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 296,
+                  "start": 279,
+                  "type": "em",
+                },
+              ],
+              "text": "If you feel like antique, experimented tastes are the way to go, then this macaron is perfect for you! A solid touch of dark chocolate, enveloped by a softening touch of vanilla, will take the best of both familiar world, to carry you to a brand new experience! Because you know Les Bonnes Choses always finds out just how to renew your classics for you...",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "value": "Vanilla",
+          },
+          Object {
+            "value": "Chocolate",
+          },
+        ],
+        "product.image": Object {
+          "main": Object {
+            "alt": null,
+            "height": 500,
+            "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/acc69618fab22be90aed95b39b91b62a80595a6b.png",
+            "width": 500,
+          },
+          "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/acc69618fab22be90aed95b39b91b62a80595a6b.png",
+          "views": Object {
+            "icon": Object {
+              "alt": null,
+              "height": 250,
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/57739050aced1fff635b72eaa82eb593d7030a8a.png",
+              "width": 250,
+            },
+          },
+        },
+        "product.name": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Black & White Macaron",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "value": 3,
+        },
+        "product.related": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbD",
+              "slug": "speculoos-macaron",
+              "tags": Array [
+                "Macaron",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbD",
+            "isBroken": false,
+            "slug": "speculoos-macaron",
+            "tags": Array [
+              "Macaron",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbD",
+                "slug": "speculoos-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbH",
+              "slug": "vanilla-macaron",
+              "tags": Array [
+                "Macaron",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbH",
+            "isBroken": false,
+            "slug": "vanilla-macaron",
+            "tags": Array [
+              "Macaron",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbH",
+                "slug": "vanilla-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbE",
+              "slug": "dark-chocolate-macaron",
+              "tags": Array [
+                "Macaron",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbE",
+            "isBroken": false,
+            "slug": "dark-chocolate-macaron",
+            "tags": Array [
+              "Macaron",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbE",
+                "slug": "dark-chocolate-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "product.short_lede": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Tastes like 60\'s spirit",
+              "type": "heading2",
+            },
+          ],
+        },
+      },
+      "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbG%22%29+%5D%5D",
+      "id": "UlfoxUnM0wkXYXbG",
+      "lastPublicationDate": null,
+      "slug": "black-white-macaron",
+      "slugs": Array [
+        "black-white-macaron",
+      ],
+      "tags": Array [
+        "Macaron",
+      ],
+      "type": "product",
+      "uid": null,
+    },
+    Object {
+      "data": Object {
+        "product.allergens": Object {
+          "type": "Text",
+          "value": "Contains eggs, milk and tabasco",
+        },
+        "product.color": Object {
+          "type": "Color",
+          "value": "#ff001a",
+        },
+        "product.description": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "You must remember your auntie Judith\'s garden, and the wonderful berries she was always picking up for dessert? Well, your inner child\'s heart is going to have to meet the enjoyable roughness of adulthood: when strawberry, cranberry and rapsberry meet tabasco, it\'s the powerful taste mix that wins the game.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "type": "Select",
+            "value": "Berries",
+          },
+          Object {
+            "type": "Select",
+            "value": "Spice",
+          },
+        ],
+        "product.image": Object {
+          "type": "Image",
+          "value": Object {
+            "main": Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 500,
+                "width": 500,
+              },
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/46608a915642fc1b71d75a5d36e2069e694e4021.png",
+            },
+            "views": Object {
+              "icon": Object {
+                "alt": null,
+                "copyright": null,
+                "dimensions": Object {
+                  "height": 250,
+                  "width": 250,
+                },
+                "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/0207c31d34736b9ab91a4d9982b3c131bccd738c.png",
+              },
+            },
+          },
+        },
+        "product.name": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Hot Berry Cupcake",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "type": "Number",
+          "value": 2,
+        },
+        "product.related": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbj",
+                "slug": "triple-chocolate-cupcake",
+                "tags": Array [
+                  "Cupcake",
+                  "Featured",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "product.short_lede": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Fruity meets spicy",
+              "type": "heading2",
+            },
+          ],
+        },
+      },
+      "firstPublicationDate": null,
+      "fragments": Object {
+        "product.allergens": Object {
+          "value": "Contains eggs, milk and tabasco",
+        },
+        "product.color": Object {
+          "value": "#ff001a",
+        },
+        "product.description": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "You must remember your auntie Judith\'s garden, and the wonderful berries she was always picking up for dessert? Well, your inner child\'s heart is going to have to meet the enjoyable roughness of adulthood: when strawberry, cranberry and rapsberry meet tabasco, it\'s the powerful taste mix that wins the game.",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "value": "Berries",
+          },
+          Object {
+            "value": "Spice",
+          },
+        ],
+        "product.image": Object {
+          "main": Object {
+            "alt": null,
+            "height": 500,
+            "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/46608a915642fc1b71d75a5d36e2069e694e4021.png",
+            "width": 500,
+          },
+          "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/46608a915642fc1b71d75a5d36e2069e694e4021.png",
+          "views": Object {
+            "icon": Object {
+              "alt": null,
+              "height": 250,
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/0207c31d34736b9ab91a4d9982b3c131bccd738c.png",
+              "width": 250,
+            },
+          },
+        },
+        "product.name": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Hot Berry Cupcake",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "value": 2,
+        },
+        "product.related": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbj",
+              "slug": "triple-chocolate-cupcake",
+              "tags": Array [
+                "Cupcake",
+                "Featured",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbj",
+            "isBroken": false,
+            "slug": "triple-chocolate-cupcake",
+            "tags": Array [
+              "Cupcake",
+              "Featured",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbj",
+                "slug": "triple-chocolate-cupcake",
+                "tags": Array [
+                  "Cupcake",
+                  "Featured",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "product.short_lede": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Fruity meets spicy",
+              "type": "heading2",
+            },
+          ],
+        },
+      },
+      "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbK%22%29+%5D%5D",
+      "id": "UlfoxUnM0wkXYXbK",
+      "lastPublicationDate": null,
+      "slug": "hot-berry-cupcake",
+      "slugs": Array [
+        "hot-berry-cupcake",
+      ],
+      "tags": Array [
+        "Cupcake",
+      ],
+      "type": "product",
+      "uid": null,
+    },
+    Object {
+      "data": Object {
+        "product.allergens": Object {
+          "type": "Text",
+          "value": "Contains almonds, eggs, milk",
+        },
+        "product.color": Object {
+          "type": "Color",
+          "value": "#f0efc1",
+        },
+        "product.description": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 137,
+                  "start": 103,
+                  "type": "strong",
+                },
+                Object {
+                  "end": 183,
+                  "start": 162,
+                  "type": "strong",
+                },
+              ],
+              "text": "Experience the ultimate vanilla experience. Our vanilla Macarons are made with our very own (in-house) pure extract of Madagascar vanilla, and subtly dusted with our own vanilla sugar (which we make from real vanilla beans).",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "type": "Select",
+            "value": "Vanilla",
+          },
+          Object {
+            "type": "Select",
+            "value": "",
+          },
+        ],
+        "product.image": Object {
+          "type": "Image",
+          "value": Object {
+            "main": Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 500,
+                "width": 500,
+              },
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/fe939eeb67713903f7f68c31efc98e52e1c7655d.png",
+            },
+            "views": Object {
+              "icon": Object {
+                "alt": null,
+                "copyright": null,
+                "dimensions": Object {
+                  "height": 250,
+                  "width": 250,
+                },
+                "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/4650457e3780a92119043c0629d9535708e7819a.png",
+              },
+            },
+          },
+        },
+        "product.name": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Vanilla Macaron",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "type": "Number",
+          "value": 3.55,
+        },
+        "product.related": Array [
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbE",
+                "slug": "dark-chocolate-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "type": "Link.document",
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbM",
+                "slug": "salted-caramel-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "product.short_lede": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Crispiness and softness, rolled into one",
+              "type": "heading2",
+            },
+          ],
+        },
+        "product.testimonial_author": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "Chef Guillaume Bort",
+              "type": "heading3",
+            },
+          ],
+        },
+        "product.testimonial_quote": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 218,
+                  "start": 97,
+                  "type": "strong",
+                },
+              ],
+              "text": "The taste of pure vanilla is very hard to tame, and therefore, most cooks resort to substitutes. It takes a high-skill chef to know how to get the best of tastes, and Les Bonnes Choses\'s vanilla macaron does just that. The result is more than a success, it simply is a gastronomic piece of art.",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "firstPublicationDate": null,
+      "fragments": Object {
+        "product.allergens": Object {
+          "value": "Contains almonds, eggs, milk",
+        },
+        "product.color": Object {
+          "value": "#f0efc1",
+        },
+        "product.description": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 137,
+                  "start": 103,
+                  "type": "strong",
+                },
+                Object {
+                  "end": 183,
+                  "start": 162,
+                  "type": "strong",
+                },
+              ],
+              "text": "Experience the ultimate vanilla experience. Our vanilla Macarons are made with our very own (in-house) pure extract of Madagascar vanilla, and subtly dusted with our own vanilla sugar (which we make from real vanilla beans).",
+              "type": "paragraph",
+            },
+          ],
+        },
+        "product.flavour": Array [
+          Object {
+            "value": "Vanilla",
+          },
+          Object {
+            "value": "",
+          },
+        ],
+        "product.image": Object {
+          "main": Object {
+            "alt": null,
+            "height": 500,
+            "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/fe939eeb67713903f7f68c31efc98e52e1c7655d.png",
+            "width": 500,
+          },
+          "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/fe939eeb67713903f7f68c31efc98e52e1c7655d.png",
+          "views": Object {
+            "icon": Object {
+              "alt": null,
+              "height": 250,
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/4650457e3780a92119043c0629d9535708e7819a.png",
+              "width": 250,
+            },
+          },
+        },
+        "product.name": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Vanilla Macaron",
+              "type": "heading1",
+            },
+          ],
+        },
+        "product.price": Object {
+          "value": 3.55,
+        },
+        "product.related": Array [
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbE",
+              "slug": "dark-chocolate-macaron",
+              "tags": Array [
+                "Macaron",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbE",
+            "isBroken": false,
+            "slug": "dark-chocolate-macaron",
+            "tags": Array [
+              "Macaron",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbE",
+                "slug": "dark-chocolate-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+          Object {
+            "document": Object {
+              "id": "UlfoxUnM0wkXYXbM",
+              "slug": "salted-caramel-macaron",
+              "tags": Array [
+                "Macaron",
+              ],
+              "type": "product",
+            },
+            "fragments": Object {},
+            "id": "UlfoxUnM0wkXYXbM",
+            "isBroken": false,
+            "slug": "salted-caramel-macaron",
+            "tags": Array [
+              "Macaron",
+            ],
+            "type": "product",
+            "uid": undefined,
+            "value": Object {
+              "document": Object {
+                "id": "UlfoxUnM0wkXYXbM",
+                "slug": "salted-caramel-macaron",
+                "tags": Array [
+                  "Macaron",
+                ],
+                "type": "product",
+              },
+              "isBroken": false,
+            },
+          },
+        ],
+        "product.short_lede": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Crispiness and softness, rolled into one",
+              "type": "heading2",
+            },
+          ],
+        },
+        "product.testimonial_author": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "Chef Guillaume Bort",
+              "type": "heading3",
+            },
+          ],
+        },
+        "product.testimonial_quote": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 218,
+                  "start": 97,
+                  "type": "strong",
+                },
+              ],
+              "text": "The taste of pure vanilla is very hard to tame, and therefore, most cooks resort to substitutes. It takes a high-skill chef to know how to get the best of tastes, and Les Bonnes Choses\'s vanilla macaron does just that. The result is more than a success, it simply is a gastronomic piece of art.",
+              "type": "paragraph",
+            },
+          ],
+        },
+      },
+      "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbH%22%29+%5D%5D",
+      "id": "UlfoxUnM0wkXYXbH",
+      "lastPublicationDate": null,
+      "slug": "vanilla-macaron",
+      "slugs": Array [
+        "vanilla-macaron",
+      ],
+      "tags": Array [
+        "Macaron",
+      ],
+      "type": "product",
+      "uid": null,
+    },
   ],
-  "results_per_page": 5,
-  "results_size": 5,
-  "total_pages": 8,
+  "results_per_page": 20,
+  "results_size": 20,
+  "total_pages": 2,
   "total_results_size": 40,
 }
 `;

@@ -4,6 +4,7 @@ import { queryByUid } from '../queries'
 
 type Props = {
   url: string,
+  apiOptions: Options,
   uid: string,
   type: string,
   queryKey: string,
@@ -20,7 +21,8 @@ export default class DocumentById extends React.Component {
   }
 
   static defaultProps = {
-    queryKey: ''
+    queryKey: '',
+    apiOptions: {}
   }
   constructor(props: Props) {
     super(props)
@@ -34,7 +36,7 @@ export default class DocumentById extends React.Component {
 
   componentDidMount = () => {
     const _this = this
-    queryByUid({ url: this.props.url, uid: this.props.uid, type: this.props.type })
+    queryByUid({ url: this.props.url, apiOptions: this.props.apiOptions, uid: this.props.uid, type: this.props.type })
     .then( (response: any) => {
       _this.setState({ loading: false, prismic: response })
     })

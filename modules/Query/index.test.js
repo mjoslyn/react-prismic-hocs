@@ -6,7 +6,7 @@ import { Predicates } from 'prismic.io'
 import Receiver from '../test/receiver'
 
 const predicates =  [ Predicates.any('document.type', [ 'article' ]) ]
-const options = { 
+const predicateOptions = { 
   pageSize: '5'
 }
 
@@ -28,7 +28,7 @@ describe ('The query component', () => {
   })
   test('Accepts a full query', (done) => {
     renderer.create(
-      <Query url={url} query={[ predicates, options ]}>
+      <Query url={url} query={[ predicates, predicateOptions ]}>
         {(props) => (
           <div>
             <Receiver {...props} done={done}/>  
@@ -50,7 +50,7 @@ describe ('The query component', () => {
   })
   test('Accepts an opitons array', (done) => {
     renderer.create(
-      <Query url={url} options={options}>
+      <Query url={url} predicateOptions={predicateOptions}>
         {(props) => (
           <div>
             <Receiver {...props} done={done}/>  

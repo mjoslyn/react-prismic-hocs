@@ -3,11 +3,12 @@ import React from 'react'
 import { query } from '../queries'
 
 type Props = {
+  url: string,
+  apiOptions: Options, 
   query: any,
   queryKey: string,
-  url: string,
   predicates: Predicates, 
-  options: Options, 
+  predicateOptions: Options, 
   children: any
 };
 
@@ -21,10 +22,11 @@ export default class Query extends React.Component {
   }
 
   static defaultProps = {
+    apiOptions: {},
     query: false,
     queryKey: '',
     predicates: '',
-    options: {}
+    predicateOptions: {}
   }
 
   constructor(props: Props) {
@@ -39,7 +41,7 @@ export default class Query extends React.Component {
 
   componentDidMount = () => {
     const _this = this
-    query({ url: this.props.url, query: _this.props.query, predicates: _this.props.predicates, options: _this.props.options })
+    query({ url: this.props.url, apiOptions: this.props.apiOptions, query: this.props.query, predicates: this.props.predicates, predicateOptions: this.props.predicateOptions })
     .then( (response: any) => {
       _this.setState({ loading: false, prismic: response })
     })

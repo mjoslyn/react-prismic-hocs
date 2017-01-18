@@ -9,7 +9,7 @@ type Props = {
 };
 
 
-export default function withDocumentById({ url, uid, type, queryKey='' }: { url: string, uid: string, type: string, queryKey: string }) {
+export default function withDocumentById({ url, apiOptions={}, uid, type, queryKey='' }: { url: string, apiOptions: Options, uid: string, type: string, queryKey: string }) {
   return <Config>(ComposedComponent: ReactClass<Config>) => {
     return class withDocument extends React.Component {
       props: Props;
@@ -30,7 +30,7 @@ export default function withDocumentById({ url, uid, type, queryKey='' }: { url:
 
       componentDidMount = () => {
         const _this = this
-        queryByUid({ url, uid, type })
+        queryByUid({ url, apiOptions, uid, type })
         .then( (response: any) => {
           _this.setState({ loading: false, prismic: response })
         })

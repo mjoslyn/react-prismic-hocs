@@ -18,7 +18,7 @@ import { Query, DocumentById } from 'react-prismic-hocs'
 The UMD build is also available on [unpkg](https://unpkg.com):
 
 ```html
-<script src="https://unpkg.com/react-prismic-hocs@0.1.1/umd/ReactPrismicHocs.min.js"></script>
+<script src="https://unpkg.com/react-prismic-hocs@0.2.0/umd/ReactPrismicHocs.min.js"></script>
 ```
 
 ## How Does It Work?
@@ -39,9 +39,10 @@ Returns a new component with the the Prismic response to your query.
 
 ##### Arguments
 * ```url``` \(*String*) - *Required* Your Prismic project's API endpoint. You can find this in the *Settings -> Api & Security* section in the dashboard of your Prisimic project.
-* ```query``` \(*[[PrismicPredicates], {PredicateOptions}]*) - A tuple containing an array of Prismic pridicate queries and a map of query options. ***If this argument is passed, the ```predicates``` and ```options``` arguments  are ignored.***
+* ```apiOptions``` \(*{ApiOptions}*) - A map of api options. See the [api options section](http://prismicio.github.io/javascript-kit/Api.html) of the Prismic javascript docs for available options. 
+* ```query``` \(*[[PrismicPredicates], {PredicateOptions}]*) - A tuple containing an array of Prismic pridicate queries and a map of query options. ***If this argument is passed, the ```predicates``` and ```predicateOptions``` arguments  are ignored.***
 * ```predicates``` \(*[PrismicPredicates]*) - An array of Prismic Predicates. See the [Prismic api docs](http://prismicio.github.io/javascript-kit/Predicates.html) for available predicates.
-* ```options``` \(*{PredicateOptions}*) - A map of predicate options. See the [predicate options section](https://prismic.io/docs/custom-types#query?lang=javascript) of the Prismic docs for available options. 
+* ```predicateOptions``` \(*{PredicateOptions}*) - A map of predicate options. See the [predicate options section](https://prismic.io/docs/custom-types#query?lang=javascript) of the Prismic docs for available options. 
 * ```queryKey``` \(*String*) - An optional key for the query props in your component. As an example a ```queryKey``` of ```articles``` will result in your passed props being ```articleLoading, articlePrismic, articleError```
 
 
@@ -80,6 +81,7 @@ Returns a new component with the the Prismic response to your query
 
 ##### Arguments
 * ```url``` \(*String*) - *Required* Your Prismic project's API endpoint. You can find this in the *Settings -> Api & Security* section in the dashboard of your Prisimic project.
+* ```apiOptions``` \(*{ApiOptions}*) - A map of api options. See the [api options section](http://prismicio.github.io/javascript-kit/Api.html) of the Prismic javascript docs for available options. 
 * ```id``` \(*String*) - *Requred* The id of the Prismic document you are querying
 * ```queryKey``` \(*String*) - An optional key for the query props in your component. As an example a ```queryKey``` of ```articles``` will result in your passed props being ```articleLoading, articlePrismic, articleError```
 
@@ -103,6 +105,7 @@ Returns a new component with the the Prismic response to your query
 
 ##### Arguments
 * ```url``` \(*String*) - *Required* Your Prismic project's API endpoint. You can find this in the *Settings -> Api & Security* section in the dashboard of your Prisimic project.
+* ```apiOptions``` \(*{ApiOptions}*) - A map of api options. See the [api options section](http://prismicio.github.io/javascript-kit/Api.html) of the Prismic javascript docs for available options. 
 * ```uid``` \(*String*) - *Requred* The uid of the Prismic document you are querying
 * ```type``` \(*String*) - *Requred* The type of the Prismic document you are querying
 * ```queryKey``` \(*String*) - An optional key for the query props in your component. As an example a ```queryKey``` of ```articles``` will result in your passed props being ```articleLoading, articlePrismic, articleError```
@@ -136,9 +139,10 @@ Pass the prismic of a Prismic query to your child function.
 
 ##### Arguments
 * ```url``` \(*String*) - *Required* Your Prismic project's API endpoint. You can find this in the *Settings -> Api & Security* section in the dashboard of your Prisimic project.
-* ```query``` \(*[[PrismicPredicates], {PredicateOptions}]*) - A tuple containing an array of Prismic pridicate queries and a map of query options. ***If this argument is passed, the ```predicates``` and ```options``` arguments  are ignored.***
+* ```apiOptions``` \(*{ApiOptions}*) - A map of api options. See the [api options section](http://prismicio.github.io/javascript-kit/Api.html) of the Prismic javascript docs for available options. 
+* ```query``` \(*[[PrismicPredicates], {PredicateOptions}]*) - A tuple containing an array of Prismic pridicate queries and a map of query options. ***If this argument is passed, the ```predicates``` and ```predicateOptions``` arguments  are ignored.***
 * ```predicates``` \(*[PrismicPredicates]*) - An array of Prismic Predicates. See the [Prismic api docs](http://prismicio.github.io/javascript-kit/Predicates.html) for available predicates.
-* ```options``` \(*{PredicateOptions}*) - A map of predicate options. See the [predicate options section](https://prismic.io/docs/custom-types#query?lang=javascript) of the Prismic docs for available options. 
+* ```predicateOptions``` \(*{PredicateOptions}*) - A map of predicate options. See the [predicate options section](https://prismic.io/docs/custom-types#query?lang=javascript) of the Prismic docs for available options. 
 * ```queryKey``` \(*String*) - An optional key for the query props in your component. As an example a ```queryKey``` of ```articles``` will result in your passed props being ```articleLoading, articlePrismic, articleError```
 
 
@@ -171,6 +175,7 @@ Passes a Prismic document to your child function
 
 ##### Arguments
 * ```url``` \(*String*) - *Required* Your Prismic project's API endpoint. You can find this in the *Settings -> Api & Security* section in the dashboard of your Prisimic project.
+* ```apiOptions``` \(*{ApiOptions}*) - A map of api options. See the [api options section](http://prismicio.github.io/javascript-kit/Api.html) of the Prismic javascript docs for available options. 
 * ```id``` \(*String*) - *Requred* The id of the Prismic document you are querying
 * ```queryKey``` \(*String*) - An optional key for the query props in your component. As an example a ```queryKey``` of ```articles``` will result in your passed props being ```articleLoading, articlePrismic, articleError```
 
@@ -202,6 +207,7 @@ Passes a Prismic document to your child function
 
 ##### Arguments
 * ```url``` \(*String*) - *Required* Your Prismic project's API endpoint. You can find this in the *Settings -> Api & Security* section in the dashboard of your Prisimic project.
+* ```apiOptions``` \(*{ApiOptions}*) - A map of api options. See the [api options section](http://prismicio.github.io/javascript-kit/Api.html) of the Prismic javascript docs for available options. 
 * ```uid``` \(*String*) - *Requred* The uid of the Prismic document you are querying
 * ```type``` \(*String*) - *Requred* The type of the Prismic document you are querying
 * ```queryKey``` \(*String*) - An optional key for the query props in your component. As an example a ```queryKey``` of ```articles``` will result in your passed props being ```articleLoading, articlePrismic, articleError```

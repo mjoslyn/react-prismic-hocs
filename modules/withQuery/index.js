@@ -10,7 +10,7 @@ type Props = {
 }
 
 //$FlowFixMe https://github.com/facebook/flow/issues/183
-export default function withQuery({ url, queryKey='', query=false, predicates='', options={} }: QueryParams ) {
+export default function withQuery({ url, apiOptions={}, queryKey='', query=false, predicates='', predicateOptions={} }: QueryParams ) {
   return <Config>(ComposedComponent: ReactClass<Config>) => {
     return class withQuery extends React.Component {
       props: Props;
@@ -31,7 +31,7 @@ export default function withQuery({ url, queryKey='', query=false, predicates=''
 
       componentDidMount() {
         const _this = this
-        prismicQuery({ url, query, predicates, options })
+        prismicQuery({ url, apiOptions, query, predicates, predicateOptions })
         .then( (response: any) => {
           _this.setState({ loading: false, prismic: response })
         })
