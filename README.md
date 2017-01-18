@@ -1,4 +1,4 @@
-React Prismic Higher Order Components
+React Prismic
 =========================
 
 React HOC's for querying [prismic.io](https://www.prismic.io)
@@ -22,7 +22,7 @@ The UMD build is also available on [unpkg](https://unpkg.com):
 ```
 
 ## How Does It Work?
-React Prismic Higher Order Components provides Higher Order Components that will fetch from [prismic.io](https://www.prismic.io) and pass the prismic to either props to your child components or child functions.
+React Prismic provides Higher Order Components that will fetch from [prismic.io](https://www.prismic.io) and pass the prismic to either props to your child components or child functions.
 
 # Child Components
 The "with" versions of each component return a new component with the Prismic prismic as props on that component
@@ -70,7 +70,7 @@ export default withQuery({
 export default withQuery({
   url: 'https://yourapiurl.prismic.io/api',
   predicates: [ Predicates.any('document.type', [ 'article' ]) ],
-  options: { pageSize: '5'}
+  predicateOptions: { pageSize: '5'}
 })(Articles)
 ```
 
@@ -125,7 +125,7 @@ export default withDocumentByUid({
 ```
 
 # Child Functions 
-Pass the results of prismic query as arguments to your child function.
+Pass the query prismic as arguments to your child function.
 
 The arguments passed to your child function are
 * ```loading or queryKeyLoading``` - \(*Boolean*) - Is the Prismic request loading?
@@ -135,7 +135,7 @@ The arguments passed to your child function are
 <a id="Query"></a>
 
 ## ```Query({ url, query, predicates, optons })```
-Pass the results of a Prismic query to your child function. 
+Pass the prismic of a Prismic query to your child function. 
 
 ##### Arguments
 * ```url``` \(*String*) - *Required* Your Prismic project's API endpoint. You can find this in the *Settings -> Api & Security* section in the dashboard of your Prisimic project.
