@@ -64,7 +64,7 @@
     "expect": "^1.20.2",
     "express": "^4.14.0",
     "express-urlrewrite": "^1.2.0",
-    "flow-bin": "^0.37.4",
+    "flow-bin": "^0.38.0",
     "gzip-size": "^3.0.0",
     "jest": "^18.1.0",
     "json-loader": "^0.5.4",

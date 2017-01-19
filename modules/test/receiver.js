@@ -24,6 +24,7 @@ export default class Receiver extends React.Component {
       expect(props.error).toEqual(false)
       expect(props.prismic).toMatchSnapshot()
     }
+    this.props.cwrpTest && this.props.cwrpTest()
     this.props.done()
   }
 

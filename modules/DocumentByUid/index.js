@@ -4,7 +4,7 @@ import { queryByUid } from '../queries'
 
 type Props = {
   url: string,
-  apiOptions: Options,
+  apiOptions: APIOptions,
   uid: string,
   type: string,
   queryKey: string,

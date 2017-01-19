@@ -2,16 +2,10 @@
 
 import Prismic from 'prismic.io'
 import invariant from 'invariant'
-
-type Query = {
-  url: string,
-  apiOptions: Options,
-  predicates: Predicates,
-  predicateOptions: Options
-}
+import type { APIOptions } from 'prismic.io'
 
 //$FlowFixMe https://github.com/facebook/flow/issues/183
-const query = ({ url, apiOptions={}, query = false, predicates='', predicateOptions={} }: Query) => {
+const query = ({ url, apiOptions={}, query = false, predicates='', predicateOptions={} }: QueryParams) => {
   invariant(
     url,
     'No url prop passed. Make sure you pass in an api url ' +
@@ -30,8 +24,7 @@ const query = ({ url, apiOptions={}, query = false, predicates='', predicateOpti
     })
 }
 
-//$FlowFixMe https://github.com/facebook/flow/issues/183
-const queryById = ({ url, apiOptions={}, id }: { url: string, apiOptions: Options, id: string}) => {
+const queryById = ({ url, apiOptions={}, id }: { url: string, apiOptions: APIOptions, id: string}) => {
   invariant(
     url,
     'No url prop passed. Make sure you pass in an api url ' +
@@ -46,8 +39,7 @@ const queryById = ({ url, apiOptions={}, id }: { url: string, apiOptions: Option
     .then( (api: any) => api.getByID(id))
 }
 
-//$FlowFixMe https://github.com/facebook/flow/issues/183
-const queryByUid = ({ url, apiOptions={}, uid, type }: { url: string, apiOptions: Options, uid: string, type: string }) => {
+const queryByUid = ({ url, apiOptions={}, uid, type }: { url: string, apiOptions: APIOptions, uid: string, type: string }) => {
   invariant(
     url,
     'No url prop passed. Make sure you pass in an api url ' +

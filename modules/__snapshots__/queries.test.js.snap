@@ -4175,6 +4175,127 @@ Response {
           "type": "Text",
           "value": "Pierre Thompson, Head of London\'s workshop",
         },
+        "blog-post.body": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "One day in the life of a Les Bonnes Choses pastry",
+              "type": "heading1",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Waking up in the morning",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 39,
+                  "start": 22,
+                  "type": "em",
+                },
+              ],
+              "text": "Before dawn breaks, a Les Bonnes Choses pastry is nothing but ingredients. But around 4am, preparation artists start to get agitated around their ingredients, to do what they do best: mix them in the most delightful way.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "A macaron\'s day starts very early, as they need more time to rest. Our preparation artists do have to wake up very early for you to enjoy the most wonderful flavors. But as they do, they keep in mind how our clients just love macaron, and their happiness to generate delight comes back in a snap.",
+              "type": "paragraph",
+            },
+            Object {
+              "oembed": Object {
+                "author_name": "NYT Dining & Wine",
+                "author_url": "https://twitter.com/nytdining",
+                "cache_age": "3153600000",
+                "embed_url": "https://twitter.com/nytdining/status/359659182670098434",
+                "height": null,
+                "html": "<blockquote class=\"twitter-tweet\"><p>The macaron: once the most exquisite of small pleasures, this cookie is everywhere today, as ordinary as Oreos: <a href=\"http://t.co/QXBq77cZBk\">http://t.co/QXBq77cZBk</a></p>&mdash; NYT Dining &amp; Wine (@nytdining) <a href=\"https://twitter.com/nytdining/statuses/359659182670098434\">July 23, 2013</a></blockquote>
+<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+                "provider_name": "Twitter",
+                "provider_url": "https://twitter.com",
+                "title": "Twitter / nytdining: The macaron: once the most ...",
+                "type": "rich",
+                "url": "https://twitter.com/nytdining/statuses/359659182670098434",
+                "version": "1.0",
+                "width": 550,
+              },
+              "type": "embed",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Heated peak of the day",
+              "type": "heading2",
+            },
+            Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 425,
+                "width": 640,
+              },
+              "type": "image",
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/8baee1ea007e292aa15a49f3aec5c040839eeb70.jpg",
+            },
+            Object {
+              "spans": Array [],
+              "text": "When the mix is perfect, the pastry goes on towards the hands of the Oven Instrumentalist, who knows his oven better than anyone. Our Oven Instrumentalists + our ovens = a result that goes far beyond the sum of the two!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Oven Instrumentalists have very precise methods to make sure the cooking of your pastries is as far along as they think, so that each pastry gets the perfect kind of cooking (gaz oven? wood-burning stove?) and the perfect amount of cooking time, for a perfect balance between melty and crusty!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Power nap",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Right out of the oven, the pastry has been having a hell of a day! It needs to rest a little, in order to get the best of what is to come. The day is far, far to be over...",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "It would be far too easy for the Oven Instrumentalist to pass on the task to make sure the resting phase goes ok to another pastry artist; so, during that phase, he\'s still the one in charge of your pastry! Only he knows how the cooking he\'s been doing will end up depending on the temperature, so he gets to use fridges that offer him many different resting temperatures. Yes, in a way, our Oven Instrumentalists are also Fridge Instrumentalists!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Time to get pretty",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Once well-rested, and after yawning quite a few times, our pastries get their party dresses on, and get as pretty as possible for their dance ball! Our Pastry Dressers know just how the pastries look the best, to create an entirely immersive experience, not only for taste buds, for for your eyes as well.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "From the ganache shape to the dusting of the toppings, our Pastry Dressers get the visual most of our pastries, for your eyes\' pleasure...",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Hanging out with our customers",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 341,
+                  "start": 324,
+                  "type": "em",
+                },
+              ],
+              "text": "Now, the day of our pastry is over! It can get to hang out with our customers, and seem as pretty as possible, to be the one to get to delight you. Our pastries have a short amount of time to convince you, as their optimum taste lasts within 10 first hours they exist; also, tomorrow morning, it will be a new generation of Les Bonnes Choses pastries waking up in the morning as simple ingredients.",
+              "type": "paragraph",
+            },
+          ],
+        },
         "blog-post.category": Object {
           "type": "Select",
           "value": "Behind the scenes",
@@ -4259,6 +4380,126 @@ Response {
         },
         "blog-post.author": Object {
           "value": "Pierre Thompson, Head of London\'s workshop",
+        },
+        "blog-post.body": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "One day in the life of a Les Bonnes Choses pastry",
+              "type": "heading1",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Waking up in the morning",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 39,
+                  "start": 22,
+                  "type": "em",
+                },
+              ],
+              "text": "Before dawn breaks, a Les Bonnes Choses pastry is nothing but ingredients. But around 4am, preparation artists start to get agitated around their ingredients, to do what they do best: mix them in the most delightful way.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "A macaron\'s day starts very early, as they need more time to rest. Our preparation artists do have to wake up very early for you to enjoy the most wonderful flavors. But as they do, they keep in mind how our clients just love macaron, and their happiness to generate delight comes back in a snap.",
+              "type": "paragraph",
+            },
+            Object {
+              "oembed": Object {
+                "author_name": "NYT Dining & Wine",
+                "author_url": "https://twitter.com/nytdining",
+                "cache_age": "3153600000",
+                "embed_url": "https://twitter.com/nytdining/status/359659182670098434",
+                "height": null,
+                "html": "<blockquote class=\"twitter-tweet\"><p>The macaron: once the most exquisite of small pleasures, this cookie is everywhere today, as ordinary as Oreos: <a href=\"http://t.co/QXBq77cZBk\">http://t.co/QXBq77cZBk</a></p>&mdash; NYT Dining &amp; Wine (@nytdining) <a href=\"https://twitter.com/nytdining/statuses/359659182670098434\">July 23, 2013</a></blockquote>
+<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+                "provider_name": "Twitter",
+                "provider_url": "https://twitter.com",
+                "title": "Twitter / nytdining: The macaron: once the most ...",
+                "type": "rich",
+                "url": "https://twitter.com/nytdining/statuses/359659182670098434",
+                "version": "1.0",
+                "width": 550,
+              },
+              "type": "embed",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Heated peak of the day",
+              "type": "heading2",
+            },
+            Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 425,
+                "width": 640,
+              },
+              "type": "image",
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/8baee1ea007e292aa15a49f3aec5c040839eeb70.jpg",
+            },
+            Object {
+              "spans": Array [],
+              "text": "When the mix is perfect, the pastry goes on towards the hands of the Oven Instrumentalist, who knows his oven better than anyone. Our Oven Instrumentalists + our ovens = a result that goes far beyond the sum of the two!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Oven Instrumentalists have very precise methods to make sure the cooking of your pastries is as far along as they think, so that each pastry gets the perfect kind of cooking (gaz oven? wood-burning stove?) and the perfect amount of cooking time, for a perfect balance between melty and crusty!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Power nap",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Right out of the oven, the pastry has been having a hell of a day! It needs to rest a little, in order to get the best of what is to come. The day is far, far to be over...",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "It would be far too easy for the Oven Instrumentalist to pass on the task to make sure the resting phase goes ok to another pastry artist; so, during that phase, he\'s still the one in charge of your pastry! Only he knows how the cooking he\'s been doing will end up depending on the temperature, so he gets to use fridges that offer him many different resting temperatures. Yes, in a way, our Oven Instrumentalists are also Fridge Instrumentalists!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Time to get pretty",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Once well-rested, and after yawning quite a few times, our pastries get their party dresses on, and get as pretty as possible for their dance ball! Our Pastry Dressers know just how the pastries look the best, to create an entirely immersive experience, not only for taste buds, for for your eyes as well.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "From the ganache shape to the dusting of the toppings, our Pastry Dressers get the visual most of our pastries, for your eyes\' pleasure...",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Hanging out with our customers",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 341,
+                  "start": 324,
+                  "type": "em",
+                },
+              ],
+              "text": "Now, the day of our pastry is over! It can get to hang out with our customers, and seem as pretty as possible, to be the one to get to delight you. Our pastries have a short amount of time to convince you, as their optimum taste lasts within 10 first hours they exist; also, tomorrow morning, it will be a new generation of Les Bonnes Choses pastries waking up in the morning as simple ingredients.",
+              "type": "paragraph",
+            },
+          ],
         },
         "blog-post.category": Object {
           "value": "Behind the scenes",
@@ -10062,6 +10303,127 @@ Response {
           "type": "Text",
           "value": "Pierre Thompson, Head of London\'s workshop",
         },
+        "blog-post.body": Object {
+          "type": "StructuredText",
+          "value": Array [
+            Object {
+              "spans": Array [],
+              "text": "One day in the life of a Les Bonnes Choses pastry",
+              "type": "heading1",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Waking up in the morning",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 39,
+                  "start": 22,
+                  "type": "em",
+                },
+              ],
+              "text": "Before dawn breaks, a Les Bonnes Choses pastry is nothing but ingredients. But around 4am, preparation artists start to get agitated around their ingredients, to do what they do best: mix them in the most delightful way.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "A macaron\'s day starts very early, as they need more time to rest. Our preparation artists do have to wake up very early for you to enjoy the most wonderful flavors. But as they do, they keep in mind how our clients just love macaron, and their happiness to generate delight comes back in a snap.",
+              "type": "paragraph",
+            },
+            Object {
+              "oembed": Object {
+                "author_name": "NYT Dining & Wine",
+                "author_url": "https://twitter.com/nytdining",
+                "cache_age": "3153600000",
+                "embed_url": "https://twitter.com/nytdining/status/359659182670098434",
+                "height": null,
+                "html": "<blockquote class=\"twitter-tweet\"><p>The macaron: once the most exquisite of small pleasures, this cookie is everywhere today, as ordinary as Oreos: <a href=\"http://t.co/QXBq77cZBk\">http://t.co/QXBq77cZBk</a></p>&mdash; NYT Dining &amp; Wine (@nytdining) <a href=\"https://twitter.com/nytdining/statuses/359659182670098434\">July 23, 2013</a></blockquote>
+<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+                "provider_name": "Twitter",
+                "provider_url": "https://twitter.com",
+                "title": "Twitter / nytdining: The macaron: once the most ...",
+                "type": "rich",
+                "url": "https://twitter.com/nytdining/statuses/359659182670098434",
+                "version": "1.0",
+                "width": 550,
+              },
+              "type": "embed",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Heated peak of the day",
+              "type": "heading2",
+            },
+            Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 425,
+                "width": 640,
+              },
+              "type": "image",
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/8baee1ea007e292aa15a49f3aec5c040839eeb70.jpg",
+            },
+            Object {
+              "spans": Array [],
+              "text": "When the mix is perfect, the pastry goes on towards the hands of the Oven Instrumentalist, who knows his oven better than anyone. Our Oven Instrumentalists + our ovens = a result that goes far beyond the sum of the two!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Oven Instrumentalists have very precise methods to make sure the cooking of your pastries is as far along as they think, so that each pastry gets the perfect kind of cooking (gaz oven? wood-burning stove?) and the perfect amount of cooking time, for a perfect balance between melty and crusty!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Power nap",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Right out of the oven, the pastry has been having a hell of a day! It needs to rest a little, in order to get the best of what is to come. The day is far, far to be over...",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "It would be far too easy for the Oven Instrumentalist to pass on the task to make sure the resting phase goes ok to another pastry artist; so, during that phase, he\'s still the one in charge of your pastry! Only he knows how the cooking he\'s been doing will end up depending on the temperature, so he gets to use fridges that offer him many different resting temperatures. Yes, in a way, our Oven Instrumentalists are also Fridge Instrumentalists!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Time to get pretty",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Once well-rested, and after yawning quite a few times, our pastries get their party dresses on, and get as pretty as possible for their dance ball! Our Pastry Dressers know just how the pastries look the best, to create an entirely immersive experience, not only for taste buds, for for your eyes as well.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "From the ganache shape to the dusting of the toppings, our Pastry Dressers get the visual most of our pastries, for your eyes\' pleasure...",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Hanging out with our customers",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 341,
+                  "start": 324,
+                  "type": "em",
+                },
+              ],
+              "text": "Now, the day of our pastry is over! It can get to hang out with our customers, and seem as pretty as possible, to be the one to get to delight you. Our pastries have a short amount of time to convince you, as their optimum taste lasts within 10 first hours they exist; also, tomorrow morning, it will be a new generation of Les Bonnes Choses pastries waking up in the morning as simple ingredients.",
+              "type": "paragraph",
+            },
+          ],
+        },
         "blog-post.category": Object {
           "type": "Select",
           "value": "Behind the scenes",
@@ -10146,6 +10508,126 @@ Response {
         },
         "blog-post.author": Object {
           "value": "Pierre Thompson, Head of London\'s workshop",
+        },
+        "blog-post.body": Object {
+          "blocks": Array [
+            Object {
+              "spans": Array [],
+              "text": "One day in the life of a Les Bonnes Choses pastry",
+              "type": "heading1",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Waking up in the morning",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 39,
+                  "start": 22,
+                  "type": "em",
+                },
+              ],
+              "text": "Before dawn breaks, a Les Bonnes Choses pastry is nothing but ingredients. But around 4am, preparation artists start to get agitated around their ingredients, to do what they do best: mix them in the most delightful way.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "A macaron\'s day starts very early, as they need more time to rest. Our preparation artists do have to wake up very early for you to enjoy the most wonderful flavors. But as they do, they keep in mind how our clients just love macaron, and their happiness to generate delight comes back in a snap.",
+              "type": "paragraph",
+            },
+            Object {
+              "oembed": Object {
+                "author_name": "NYT Dining & Wine",
+                "author_url": "https://twitter.com/nytdining",
+                "cache_age": "3153600000",
+                "embed_url": "https://twitter.com/nytdining/status/359659182670098434",
+                "height": null,
+                "html": "<blockquote class=\"twitter-tweet\"><p>The macaron: once the most exquisite of small pleasures, this cookie is everywhere today, as ordinary as Oreos: <a href=\"http://t.co/QXBq77cZBk\">http://t.co/QXBq77cZBk</a></p>&mdash; NYT Dining &amp; Wine (@nytdining) <a href=\"https://twitter.com/nytdining/statuses/359659182670098434\">July 23, 2013</a></blockquote>
+<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+                "provider_name": "Twitter",
+                "provider_url": "https://twitter.com",
+                "title": "Twitter / nytdining: The macaron: once the most ...",
+                "type": "rich",
+                "url": "https://twitter.com/nytdining/statuses/359659182670098434",
+                "version": "1.0",
+                "width": 550,
+              },
+              "type": "embed",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Heated peak of the day",
+              "type": "heading2",
+            },
+            Object {
+              "alt": null,
+              "copyright": null,
+              "dimensions": Object {
+                "height": 425,
+                "width": 640,
+              },
+              "type": "image",
+              "url": "https://prismic-io.s3.amazonaws.com/lesbonneschoses/8baee1ea007e292aa15a49f3aec5c040839eeb70.jpg",
+            },
+            Object {
+              "spans": Array [],
+              "text": "When the mix is perfect, the pastry goes on towards the hands of the Oven Instrumentalist, who knows his oven better than anyone. Our Oven Instrumentalists + our ovens = a result that goes far beyond the sum of the two!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Oven Instrumentalists have very precise methods to make sure the cooking of your pastries is as far along as they think, so that each pastry gets the perfect kind of cooking (gaz oven? wood-burning stove?) and the perfect amount of cooking time, for a perfect balance between melty and crusty!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Power nap",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Right out of the oven, the pastry has been having a hell of a day! It needs to rest a little, in order to get the best of what is to come. The day is far, far to be over...",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "It would be far too easy for the Oven Instrumentalist to pass on the task to make sure the resting phase goes ok to another pastry artist; so, during that phase, he\'s still the one in charge of your pastry! Only he knows how the cooking he\'s been doing will end up depending on the temperature, so he gets to use fridges that offer him many different resting temperatures. Yes, in a way, our Oven Instrumentalists are also Fridge Instrumentalists!",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Time to get pretty",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Once well-rested, and after yawning quite a few times, our pastries get their party dresses on, and get as pretty as possible for their dance ball! Our Pastry Dressers know just how the pastries look the best, to create an entirely immersive experience, not only for taste buds, for for your eyes as well.",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "From the ganache shape to the dusting of the toppings, our Pastry Dressers get the visual most of our pastries, for your eyes\' pleasure...",
+              "type": "paragraph",
+            },
+            Object {
+              "spans": Array [],
+              "text": "Hanging out with our customers",
+              "type": "heading2",
+            },
+            Object {
+              "spans": Array [
+                Object {
+                  "end": 341,
+                  "start": 324,
+                  "type": "em",
+                },
+              ],
+              "text": "Now, the day of our pastry is over! It can get to hang out with our customers, and seem as pretty as possible, to be the one to get to delight you. Our pastries have a short amount of time to convince you, as their optimum taste lasts within 10 first hours they exist; also, tomorrow morning, it will be a new generation of Les Bonnes Choses pastries waking up in the morning as simple ingredients.",
+              "type": "paragraph",
+            },
+          ],
         },
         "blog-post.category": Object {
           "value": "Behind the scenes",

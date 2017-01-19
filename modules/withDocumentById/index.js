@@ -1,6 +1,7 @@
 //@flow
 import React from 'react'
 import { queryById } from '../queries'
+import type { APIOptions } from 'prismic.io'
 
 type Props = {
   query: string,
@@ -8,7 +9,7 @@ type Props = {
 };
 
 
-export default function withDocumentById({ url, apiOptions={}, id, queryKey='' }: { url: string, apiOptions: Options, id: string, queryKey: string }) {
+export default function withDocumentById({ url, apiOptions={}, id, queryKey='' }: { url: string, apiOptions: APIOptions, id: string, queryKey: string }) {
   return <Config>(ComposedComponent: ReactClass<Config>)=> {
     return class withDocument extends React.Component {
       props: Props;

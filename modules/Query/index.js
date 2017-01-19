@@ -1,10 +1,11 @@
 //@flow
 import React from 'react'
 import { query } from '../queries'
+import type { APIOptions } from 'prismic.io'
 
 type Props = {
   url: string,
-  apiOptions: Options, 
+  apiOptions: APIOptions, 
   query: any,
   queryKey: string,
   predicates: Predicates, 
