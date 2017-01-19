@@ -1,6 +1,6 @@
 ## [0.2.0]
 > Jan 18, 2017 
-* Added abiOptions
+* Added apiOptions to pass options to ```api``` portion of the prismic query. See the Prismic Javascript Api [docs](http://prismicio.github.io/javascript-kit/Api.html).
 * renamed  options to predicateOptions
 
 
