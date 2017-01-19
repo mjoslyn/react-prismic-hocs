@@ -67,7 +67,6 @@
     "flow-bin": "^0.37.4",
     "gzip-size": "^3.0.0",
     "jest": "^18.1.0",
-    "jest-cli": "^18.1.0",
     "json-loader": "^0.5.4",
     "karma": "^1.1.2",
     "karma-browserstack-launcher": "^1.0.1",
