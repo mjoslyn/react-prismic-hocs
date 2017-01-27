@@ -22,7 +22,7 @@ The UMD build is also available on [unpkg](https://unpkg.com):
 ```
 
 ## How Does It Work?
-React Prismic provides Higher Order Components that will fetch from [prismic.io](https://www.prismic.io) and pass the prismic to either props to your child components or child functions.
+React Prismic provides Higher Order Components that will fetch from [prismic.io](https://www.prismic.io) and pass the results as either either props to your child components or arguments to your child functions.
 
 # Child Components
 The "with" versions of each component return a new component with the Prismic prismic as props on that component
