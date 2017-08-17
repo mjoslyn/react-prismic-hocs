@@ -184,10 +184,9 @@ Passes a Prismic document to your child function
 ```js
 import { DocumentById} from 'react-prismic-hocs'
 
-const Article = (props) => ... // your component
 
 <DocumentById
-  url={'https://yourapiurl.prismic.io/api'},
+  url={'https://yourapiurl.prismic.io/api'}
   id={'vkadf183wvsdfh'}
 >
   {({loading, prismic, error}) => (
@@ -217,13 +216,9 @@ Passes a Prismic document to your child function
 ```js
 import { DocumentById} from 'react-prismic-hocs'
 
-export default withDocumentByUid({
-  url: 'https://yourapiurl.prismic.io/api',
-  uid: 'about-us'
-  type: 'page'
-})(Page)
+
 <DocumentById
-  url={'https://yourapiurl.prismic.io/api'},
+  url={'https://yourapiurl.prismic.io/api'}
   uid={'about-us'}
   type={'page'}
   queryKey={'page'}

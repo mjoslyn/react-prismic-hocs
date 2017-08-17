@@ -12,7 +12,7 @@ type Props = {
 }
 
 
-export default class DocumentById extends React.Component {
+export default class DocumentByUId extends React.Component {
   props: Props;
   state: {
     loading: boolean,
