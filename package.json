@@ -1,6 +1,6 @@
 {
   "name": "react-prismic-hocs",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "description": "A higher order compnent library for querying prismic.io",
   "files": ["*.md", "docs", "es", "lib", "umd"],
   "main": "lib/index",

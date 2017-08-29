@@ -233,7 +233,7 @@ import { DocumentById} from 'react-prismic-hocs'
 </DocumentById>
 ```
 
-##### Refetching && Routing
+## Refetching and Routing
 Queries are only run on component mount. If you need queries to update based on routing params, trigger a refetch of the component using a key. In the example below, the component will refetch whenever the ```uid``` is updated on a react router url parameter named ```uid```.
 
 ```js
