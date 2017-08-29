@@ -557,7 +557,7 @@ Object {
       ],
     },
   },
-  "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbf%22%29+%5D%5D",
+  "href": "https://lesbonneschoses-ve9ubyaaaciapezy.prismic.io/api/v1/documents/search?ref=WHzuVR8AAL5VPhhf&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22UlfoxUnM0wkXYXbf%22%29+%5D%5D",
   "id": "UlfoxUnM0wkXYXbf",
   "lastPublicationDate": 2017-01-16T16:01:25.000Z,
   "slug": "about-us",
