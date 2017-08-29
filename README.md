@@ -233,5 +233,29 @@ import { DocumentById} from 'react-prismic-hocs'
 </DocumentById>
 ```
 
+##### Refetching && Routing
+Queries are only run on component mount. If you need queries to update based on routing params, trigger a refetch of the component using a key. In the example below, the component will refetch whenever the ```uid``` is updated on a react router url parameter named ```uid```.
+
+```js
+import { DocumentById} from 'react-prismic-hocs'
+
+
+<DocumentById
+  key={props.match.params.uid} //whenever this changes the component is refetched
+  url={'https://yourapiurl.prismic.io/api'}
+  uid={'about-us'}
+  type={'page'}
+  queryKey={'page'}
+>
+  {({pageLoading, pagePrismic, pageError}) => (
+    <div>
+      {!pageLoading && pagePrismic &&
+        <div>pagePrismic.data['title']</div>
+      }
+    </div>
+  )}
+</DocumentById>
+
+
 ## License
 MIT
