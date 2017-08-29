@@ -1,5 +1,7 @@
 // Place your settings in this file to overwrite default and user settings.
 {
+    "editor.formatOnSave": true,
+    "javascript.validate.enable": false,
     "search.exclude": {
         "**/.git": true,
         "**/node_modules": true,
