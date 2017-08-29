@@ -1,25 +1,15 @@
 {
   "name": "react-prismic-hocs",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "A higher order compnent library for querying prismic.io",
-  "files": [
-    "*.md",
-    "docs",
-    "es",
-    "lib",
-    "umd"
-  ],
+  "files": ["*.md", "docs", "es", "lib", "umd"],
   "main": "lib/index",
   "jsnext:main": "es/index",
   "repository": {
     "type": "git",
     "url": "https://github.com/mjoslyn/react-prismic-hocs.git"
   },
-  "keywords": [
-    "react",
-    "reactjs",
-    "prismic"
-  ],
+  "keywords": ["react", "reactjs", "prismic"],
   "author": "Mike Joslyn<mike@robotofthefuture.com> (http://github.com/mjoslyn)",
   "license": "MIT",
   "bugs": {
@@ -95,12 +85,7 @@
     "xmlhttprequest": "^1.8.0"
   },
   "browserify": {
-    "transform": [
-      "loose-envify"
-    ]
+    "transform": ["loose-envify"]
   },
-  "tags": [
-    "react",
-    "prismic"
-  ]
+  "tags": ["react", "prismic"]
 }
