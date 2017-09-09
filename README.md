@@ -255,7 +255,7 @@ import { DocumentById} from 'react-prismic-hocs'
     </div>
   )}
 </DocumentById>
-
+```
 
 ## License
 MIT
