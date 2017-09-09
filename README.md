@@ -243,7 +243,7 @@ import { DocumentById} from 'react-prismic-hocs'
 <DocumentById
   key={props.match.params.uid} //whenever this changes the component is refetched
   url={'https://yourapiurl.prismic.io/api'}
-  uid={'about-us'}
+  key={props.match.params.uid}
   type={'page'}
   queryKey={'page'}
 >
