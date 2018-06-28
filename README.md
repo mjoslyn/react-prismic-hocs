@@ -6,8 +6,7 @@ React HOC's for querying [prismic.io](https://www.prismic.io)
 This library was built to work with v1 of the Prismic library. 
 
 For a v2 try:
-LoaderComponent with render props - https://gist.github.com/mjoslyn/4a50056f20d0afb127224b2cd36cbccf 
-This API compatible with V2 - https://github.com/stefl/react-prismic-hocs 
+LoaderComponent with render props - https://gist.github.com/mjoslyn/4a50056f20d0afb127224b2cd36cbccf or this API compatible with V2 - https://github.com/stefl/react-prismic-hocs 
 
 
 ## Installation
